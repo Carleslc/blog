@@ -7,23 +7,23 @@
 
 # Site Settings
 locale                   : "es"
-title                    : "Carlos Lázaro Costa - Blog"
+title                    : "Un Blog Random"
 title_separator          : "-"
-name                     : "Carlos Lázaro Costa - Blog"
+name                     : "Carlos Lázaro Costa"
 description              : "Blog de contenido diverso."
 theme                    : minimal-mistakes-jekyll
 url                      : "https://carleslc.github.io"
 baseurl                  : "/blog"
 repository               : "carleslc/blog"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "discourse"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -56,12 +56,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "Carleslc"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/site-logo.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -84,13 +84,13 @@ author:
   location         : "Laniakea"
   email            : "lazaro.costa.carles@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "Carleslc"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "Carleslc"
   gitlab           :
   google_plus      :
   keybase          :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "Carleslc"
   vine             :
   weibo            :
   xing             :
@@ -176,7 +176,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -243,6 +243,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
