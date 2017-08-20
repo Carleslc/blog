@@ -15,7 +15,7 @@ url                      : "https://carleslc.github.io"
 baseurl                  : "/blog"
 repository               : "carleslc/blog"
 teaser                   : /assets/images/500x300.png
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : "discourse"
@@ -120,6 +120,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .gitignore
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
