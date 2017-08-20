@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Lázaro Costa"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpeg"
   bio              : "Amante de la informática y unas cuantas cosas más."
   location         : "Laniakea"
   email            : "lazaro.costa.carles@gmail.com"
