@@ -11,7 +11,7 @@ title                    : "Un Blog Random"
 title_separator          : "-"
 name                     : "Carlos Lázaro Costa"
 description              : "Blog de contenido diverso."
-url                      : "https://carleslc.github.io"
+url                      : "https://carleslc.me"
 baseurl                  : "/blog"
 repository               : "carleslc/blog"
 teaser                   : /assets/images/500x300.png
@@ -82,7 +82,7 @@ author:
   bio              : "Amante de la informática y unas cuantas cosas más."
   location         : "Laniakea"
   email            : "lazaro.costa.carles@gmail.com"
-  uri              : "https://carleslc.github.io/"
+  uri              : "https://carleslc.me/"
   bitbucket        : "Carleslc"
   codepen          :
   dribbble         :
