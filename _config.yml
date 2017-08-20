@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "es"
+title                    : "Carlos Lázaro Costa - Blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Carlos Lázaro Costa - Blog"
+description              : "Blog de contenido diverso."
 theme                    : minimal-mistakes-jekyll
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://carleslc.github.io"
+baseurl                  : "/blog"
+repository               : "carleslc/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Carlos Lázaro Costa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Amante de la informática y unas cuantas cosas más."
+  location         : "Laniakea"
+  email            : "lazaro.costa.carles@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
