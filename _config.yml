@@ -9,7 +9,6 @@
 locale                   : "es"
 title                    : "Un Blog Random"
 title_separator          : "-"
-<<<<<<< HEAD
 name                     : "Carlos Lázaro Costa"
 description              : "Blog de contenido diverso."
 theme                    : minimal-mistakes-jekyll
@@ -17,14 +16,6 @@ url                      : "https://carleslc.github.io"
 baseurl                  : "/blog"
 repository               : "carleslc/blog"
 teaser                   : /assets/images/500x300.png
-=======
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
->>>>>>> parent of bc93204... Template Update
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
