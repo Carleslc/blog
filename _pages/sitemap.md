@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Índice"
 permalink: /sitemap/
 author_profile: false
 ---
