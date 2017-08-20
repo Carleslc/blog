@@ -18,11 +18,11 @@ teaser                   : /assets/images/500x300.png
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
-  provider               : "discourse"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : carleslc-blog
   discourse:
-    server               : meta.discourse.org
+    server               : #meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -35,7 +35,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path                   : "/_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -82,7 +82,7 @@ author:
   bio              : "Amante de la informática y unas cuantas cosas más."
   location         : "Laniakea"
   email            : "lazaro.costa.carles@gmail.com"
-  uri              :
+  uri              : "https://carleslc.github.io/"
   bitbucket        : "Carleslc"
   codepen          :
   dribbble         :
