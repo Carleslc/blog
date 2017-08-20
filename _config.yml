@@ -11,7 +11,6 @@ title                    : "Un Blog Random"
 title_separator          : "-"
 name                     : "Carlos Lázaro Costa"
 description              : "Blog de contenido diverso."
-theme                    : minimal-mistakes-jekyll
 url                      : "https://carleslc.github.io"
 baseurl                  : "/blog"
 repository               : "carleslc/blog"
