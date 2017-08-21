@@ -1,4 +1,14 @@
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+<script src="{{ '/assets/js/super-search.js' | absolute_url }}"></script>
+
+<script>
+    superSearch({
+        searchFile: '/blog/feed.xml',
+        searchSelector: '#js-super-search', // CSS Selector for search container element.
+        inputSelector: '#js-super-search__input', // CSS selector for <input>
+        resultsSelector: '#js-super-search__results' // CSS selector for results container
+    });
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
