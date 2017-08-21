@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 git checkout develop # force to be in develop branch
 git checkout examples
 git merge develop -m "Update from develop"
