@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Sobre mí"
-    url: https://carleslc.me/
   - title: "Índice"
     url: /sitemap/
+  - title: "Sobre mí"
+    url: https://carleslc.me/
   #- title: "Sample Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"
