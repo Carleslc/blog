@@ -109,7 +109,6 @@ MIT Licensed
 		searchEl = document.querySelector(options.searchSelector || '#js-super-search');
 		searchInputEl = document.querySelector(options.inputSelector || '#js-super-search__input');
 		searchResultsEl = document.querySelector(options.resultsSelector || '#js-super-search__results');
-        navbar = document.getElementById('site-nav');
         closeEl = document.getElementById('close-search');
 
 		var xmlhttp=new XMLHttpRequest();
