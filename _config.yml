@@ -11,8 +11,8 @@ title                    : "Un Blog Random"
 title_separator          : "-"
 name                     : "Carlos Lázaro Costa"
 description              : "Blog de contenido diverso."
-url                      : "https://carleslc.me"
-baseurl                  : "/blog"
+url                      : "https://blog.carleslc.me"
+baseurl                  : "/"
 repository               : "carleslc/blog"
 teaser                   : /assets/images/500x300.png
 breadcrumbs              : true
