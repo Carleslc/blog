@@ -22,11 +22,14 @@
     {{ content }}
 
     <div class="page__footer">
-      <footer>
+      <footer style="margin-top: 0">
         {% include footer/custom.html %}
         {% include footer.html %}
       </footer>
     </div>
+
+    <button onclick="goToTop()" id="top-btn" class="arrow-btn" title="Go to top"><span class="fa fa-arrow-up"></span></button>
+    <button onclick="goToBottom()" id="bottom-btn" class="arrow-btn" title="Go to bottom"><span class="fa fa-arrow-down"></span></button>
 
     {% include scripts.html %}
 
