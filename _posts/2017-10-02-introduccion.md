@@ -31,7 +31,7 @@ En cada post hay una sección de **comentarios**, que puedes usar para comentar 
 Aprovecho para informarte de que puedes **suscribirte** al blog por _email_ con el formulario que hay al final de la página.
 {: style="text-align: justify;"}
 
-También puedes seguir este blog con cualquier lector _RSS_ mediante el siguiente **[{% img /assets/images/rss.png 20x20 %} Feed]({{site.url}}/feed.xml)**.
+También puedes seguir este blog con cualquier lector _RSS_ mediante el siguiente **[<img src="/assets/images/rss.png" width="20" height="20"> Feed]({{site.url}}/feed.xml)**.
 {: style="text-align: justify;"}
 
 Dicho esto, te espero en el siguiente post.

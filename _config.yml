@@ -186,7 +186,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  #- jekyll-assets
+  - jekyll-assets
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -195,7 +195,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-assets
 
 
 # Archives
