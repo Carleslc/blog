@@ -6,7 +6,7 @@
     git checkout develop
     git add -A
     current = date "+%d/%m/%Y %H:%M"
-    git commit -m "Blog Update - $current"
+    git commit -m "Blog Update - $(current)"
     echo "develop -> examples"
     git checkout examples
     git merge develop -m "Update from develop"
