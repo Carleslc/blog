@@ -10,4 +10,49 @@
     });
 </script>
 
+<!-- Top & Bottom Arrows -->
+<script>
+    const MIN_HEIGHT = 50;
+
+    function scrollFunction() {
+        document.getElementById("bottom-btn").style.display = "none";
+        document.getElementById("top-btn").style.display = "none";
+        if (checkIfTop()) {
+            document.getElementById("top-btn").style.display = "block";
+        } else if (checkIfBottom()) {
+            document.getElementById("bottom-btn").style.display = "block";
+        }
+    }
+
+    window.onscroll = function() {
+        scrollFunction();
+    };
+
+    window.onresize = function() {
+        scrollFunction();
+    };
+
+    function goToTop() {
+        document.body.scrollTop = 0; // For Chrome, Safari and Opera
+        document.documentElement.scrollTop = 0; // For IE and Firefox
+        scrollFunction();
+    }
+
+    function goToBottom() {
+        document.body.scrollTop = document.body.scrollHeight;
+        document.documentElement.scrollTop = document.documentElement.scrollHeight;
+        scrollFunction();
+    }
+
+    function checkIfTop() {
+        return checkIfBottom() && (document.body.scrollTop > MIN_HEIGHT || document.documentElement.scrollTop > MIN_HEIGHT);
+    }
+
+    function checkIfBottom() {
+        return innerHeight < document.body.scrollHeight || innerHeight < document.documentElement.scrollHeight;
+    }
+
+    scrollFunction();
+</script>
+
 {% include /comments-providers/scripts.html %}

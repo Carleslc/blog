@@ -186,6 +186,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  #- jekyll-assets
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -194,6 +195,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-assets
 
 
 # Archives
@@ -264,3 +266,32 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
+
+assets:
+  compress:
+    css: true
+    js: true
+  cache: .asset-cache
+  cache_type: filesystem
+  cdn: https://cdn.example.com
+  skip_baseurl_with_cdn: false
+  skip_prefix_with_cdn: false
+  prefix: "/assets"
+  digest: true
+  assets:
+    - "*.jpg"
+    - "*.jpeg"
+    - "*.png"
+    - "bundle.css"
+  sources:
+    - assets/css
+    - assets/images
+    - assets/fonts
+    - assets/js
+  features:
+    liquid: false
+    integrity: false
+    # This will add height and width attributes for an img tag.
+    automatic_img_size: true
+    # This will add the digest path as an alt attribute for an img tag.
+    automatic_img_alt : true
