@@ -1,3 +1,7 @@
+# Usage:
+# {% img /assets/images/rss.png 20x20 %}
+# Works with external URL images too
+# DO NOT WORK WITH GITHUB PAGES
 module Jekyll
   class RenderImgTag < Liquid::Tag
 
