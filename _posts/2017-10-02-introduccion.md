@@ -20,6 +20,8 @@ Bueno, puedo listar algunos temas que podría tratar aquí:
 
 - Guías, tutoriales y consejos de **Informática**
 - Posts de **Opinión**
+- Producitividad Personal
+- Deporte, en especial _Running_
 - Relatos
 - Puzles y entretenimiento
 
