@@ -1,12 +1,31 @@
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 <script src="{{ '/assets/js/super-search.js' | absolute_url }}"></script>
 
+<!-- Search -->
 <script>
     superSearch({
         searchFile: '/feed.xml',
         searchSelector: '#js-super-search', // CSS Selector for search container element.
         inputSelector: '#js-super-search__input', // CSS selector for <input>
         resultsSelector: '#js-super-search__results' // CSS selector for results container
+    });
+</script>
+
+<!-- Subscription Pop-up -->
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js"
+        data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script>
+    $("#subscribe").click(function(e) {
+        e.preventDefault(); // Prevent the link trying to navigate to another page
+        var href = $(this).attr("href");
+
+        document.cookie = "MCPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+        document.cookie = "MCPopupSubscribed=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+        require(["mojo/signup-forms/Loader"], function(L) {
+            L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"2a169d38f834d3724e7764184","lid":"8aebc7cbf0"})
+        });
+
+        // window.location = href; // Navigation
     });
 </script>
 

@@ -1,7 +1,6 @@
 #!/bin/bash
 {
     set -e
-    echo "Fetching from origin"
     git pull --all
     git checkout develop
     git add -A
