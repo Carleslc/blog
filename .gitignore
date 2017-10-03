@@ -13,4 +13,4 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 .idea
-.asset_cache
+.asset-cache
