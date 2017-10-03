@@ -25,6 +25,8 @@ Bueno, puedo listar algunos temas que podría tratar aquí:
 
 Sin embargo, no me limito a estos.
 
+En lo que respecta a la **frecuencia** de publicación no quiero exigirme nada, pues no tengo demasiado tiempo libre, pero aproximadamente podéis esperar entre 1 o 2 publicaciones por semana. Aunque, repito, es sólo orientativo.
+
 ## Comentarios
 
 En cada post hay una sección de **comentarios**, que puedes usar para comentar cualquier cosa que te apetezca, ya sean sugerencias o ideas para futuros posts o tu opinión acerca de lo que se esté tratando. Siempre y cuando cumplas unas mínimas _normas de conducta_ eres libre de escribir ahí.
