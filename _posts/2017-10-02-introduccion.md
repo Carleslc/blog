@@ -25,14 +25,19 @@ Bueno, puedo listar algunos temas que podría tratar aquí:
 
 Sin embargo, no me limito a estos.
 
-En cada post hay una sección de **comentarios**, que puedes usar para comentar cualquier cosa que te apetezca, ya sean sugerencias o ideas para futuros posts o tu opinión acerca de lo que se esté tratando. Siempre y cuando cumplas unas mínimas _normas de conducta_ eres libre de escribir ahí.
-{: style="text-align: justify;"}
+## Comentarios
 
-Aprovecho para informarte de que puedes **suscribirte** al blog por _email_ con el formulario que hay al final de la página.
-{: style="text-align: justify;"}
+En cada post hay una sección de **comentarios**, que puedes usar para comentar cualquier cosa que te apetezca, ya sean sugerencias o ideas para futuros posts o tu opinión acerca de lo que se esté tratando. Siempre y cuando cumplas unas mínimas _normas de conducta_ eres libre de escribir ahí.
+{: .notice--success style="text-align: justify;"}
+
+## Suscripción
+
+Puedes recibir actualizaciones por _email_ de este blog para no perderte nada.
+<a href="#" id="subscribe" class="btn center">✉ <b>Suscribirse</b></a>
+{: .notice}
 
 También puedes seguir este blog con cualquier lector _RSS_ mediante el siguiente **[<img src="/assets/images/rss.png" width="20" height="20"> Feed]({{site.url}}/feed.xml)**.
-{: style="text-align: justify;"}
+{: .notice--warning style="text-align: justify;"}
 
 Dicho esto, te espero en el siguiente post.
 
