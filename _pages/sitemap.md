@@ -5,11 +5,13 @@ permalink: /sitemap/
 author_profile: false
 ---
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ "sitemap.xml" | absolute_url }}) available for digesting as well.
+Encuentra rápidamente lo que buscas.
 
-<h2 style="color: blue">Pages</h2>
+<h2 style="color: blue">Páginas</h2>
 {% for post in site.pages %}
-  {% include archive-single.html %}
+  {% if post.indexable %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 <h2 style="color: blue">Posts</h2>
