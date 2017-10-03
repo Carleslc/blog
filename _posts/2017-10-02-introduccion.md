@@ -26,6 +26,7 @@ Bueno, puedo listar algunos temas que podría tratar aquí:
 Sin embargo, no me limito a estos.
 
 En lo que respecta a la **frecuencia** de publicación no quiero exigirme nada, pues no tengo demasiado tiempo libre, pero aproximadamente podéis esperar entre 1 o 2 publicaciones por semana. Aunque, repito, es sólo orientativo.
+{: style="text-align: justify;"}
 
 ## Comentarios
 
