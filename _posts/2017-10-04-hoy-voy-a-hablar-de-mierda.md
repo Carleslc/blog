@@ -1,15 +1,17 @@
 ---
 layout: single
+header:
+  image: /assets/images/poo_emojis.png
 title: Hoy voy a hablar de mierda
 date: 2017-10-04 00:01:42
 categories:
 - noticias
-tags: 
+tags:
 - whatsapp
 - emojis
 ---
 
-En concreto de esta: <img src="/assets/images/whatsapp_poo.png" width="42" height="42">. En serio, ¿qué mierda es esta?
+En concreto de esta: {% raw %}<img src="/assets/images/whatsapp_poo.png" width="42" height="42">{% endraw %}. En serio, ¿qué mierda es esta?
 {: style="text-align: justify;"}
 
 Pues se trata de la nueva representación del **emoji** de **WhatsApp** para el mítico emoji el cual hasta ahora tenía este aspecto: <img src="/assets/images/apple_poo.png" width="32" height="32"> (U+1F4A9)
@@ -23,7 +25,7 @@ Por si no lo sabías, hasta ahora WhatsApp ha estado utilizando los emojis de **
 
 ![Emoji Comparison](/assets/images/apple-whatsapp-emoji-comparison.jpg)
 
-Para evitar un cambio radical todavía son bastantes parecidos a los que se estaban utilizando hasta el momento, aunque algunos chocan bastante, como este: <img src="/assets/images/whatsapp_moon.png" width="42" height="42">
+Para evitar un cambio radical todavía son bastante parecidos a los que se estaban utilizando hasta el momento, aunque algunos chocan bastante, como este: <img src="/assets/images/whatsapp_moon.png" width="42" height="42">
 {: style="text-align: justify;"}
 
 ### --- Pero... Yo sigo viendo los antiguos emojis en mi WhatsApp
