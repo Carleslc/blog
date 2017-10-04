@@ -17,7 +17,7 @@ En concreto de esta: {% raw %}<img src="/assets/images/whatsapp_poo.png" width="
 Pues se trata de la nueva representación del **emoji** de **WhatsApp** para el mítico emoji el cual hasta ahora tenía este aspecto: <img src="/assets/images/apple_poo.png" width="32" height="32"> (U+1F4A9)
 {: style="text-align: justify;"}
 
-No me negaréis que la nueva faceta de este emoji parece haber tomado sustancias estupefacientes, aunque la de Facebook tampoco se queda atrás, mírala: <img src="/assets/images/facebook_poo.png" width="32" height="32">. ¿Le ha afectado demasiado su popularidad? ¿Ha desistido de parecerse a un helado de turrón?
+No me negaréis que la nueva faceta de este emoji parece haber tomado sustancias estupefacientes, aunque la de Facebook tampoco se queda atrás, mírala: <img src="/assets/images/facebook_poo.png" width="32" height="32">. _¿Le ha afectado demasiado su popularidad? ¿Ha desistido de parecerse a un helado de turrón?_
 {: style="text-align: justify;"}
 
 Por si no lo sabías, hasta ahora WhatsApp ha estado utilizando los emojis de **Apple** (sí, no es al revés), pero ha decidido unirse a la corriente de crear emoticonos propios como ya han hecho muchas de las grandes compañías: Google, Microsoft, HTC, Samsung, Twitter, Facebook...
