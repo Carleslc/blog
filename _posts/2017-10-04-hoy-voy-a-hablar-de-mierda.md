@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hoy Voy A Hablar De Mierda
+title: Hoy voy a hablar de mierda
 date: 2017-10-04 00:01:42
 categories:
 - noticias
