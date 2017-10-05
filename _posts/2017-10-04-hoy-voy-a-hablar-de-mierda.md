@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-  image: /assets/images/poo_emojis.png
+    image: /assets/images/poo_emojis.png
 title: Hoy voy a hablar de mierda
 date: 2017-10-04 00:01:42
 categories:
