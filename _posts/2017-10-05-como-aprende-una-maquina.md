@@ -60,7 +60,7 @@ Para realizar esto nos ayudará _Google_ y uno de sus nuevos experimentos llamad
 Además, es un proyecto _Open Source_ y, por si te interesa, tienes el código disponible [aquí](https://github.com/googlecreativelab/teachable-machine).
 {: style="text-align: justify;"}
 
-Por si te ha sabido a poco, en la propia página tienes mucha más información y enlaces interesantes. Por ejemplo, [aquí](https://quickdraw.withgoogle.com/) tienes otro experimento para qué la máquina adivine lo que dibujas y además aprenda gracias a ti. Y [aquí](https://www.youtube.com/watch?v=X8v1GWzZYJ4) tenéis un vídeo sobre cómo funciona, explicado con gatitos.
+Por si te ha sabido a poco, en la propia página tienes mucha más información y enlaces interesantes. Por ejemplo, [aquí](https://quickdraw.withgoogle.com/) tienes otro experimento para qué la máquina adivine lo que dibujas y además aprenda gracias a ti. Y [aquí](https://www.youtube.com/watch?v=X8v1GWzZYJ4) tienes un vídeo sobre cómo funciona, explicado con gatitos.
 {: style="text-align: justify;"}
 
 _¿Qué te han parecido estos experimentos?_ Recuerda que si tienes alguna duda puedes comentarla más abajo.
