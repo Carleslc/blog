@@ -11,5 +11,10 @@
 {% elsif words == words_per_minute %}
   1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
 {% else %}
-  {{ words | divided_by:words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+  {% assign minutes = words | divided_by:words_per_minute %}
+  {% if minutes == 1 %}
+    {{ minutes }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+  {% else %}
+    {{ minutes }} {{ site.data.ui-text[site.locale].minutes_read | default: "minutes read" }}
+  {% endif %}
 {% endif %}
