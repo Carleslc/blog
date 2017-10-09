@@ -44,9 +44,24 @@ layout: default
         {% endif %}
         {% include page__taxonomy.html %}
         {% if page.last_modified_at %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
+          {% assign page_date = page.last_modified_at %}
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          {% assign page_date = page.date %}
+        {% endif %}
+        {% if page_date %}
+          {% assign splitted_locale = site.locale | split: '-' %}
+          {% assign splitted_locale = splitted_locale[0] %}
+          {% if splitted_locale == 'en' %}
+            {% assign page_date = page_date | date_to_long_string %}
+          {% else %}
+            {% capture page_date %}
+              {{ page_date | date: "%-d" }}
+              {% assign m = page_date | date: "%-m" | minus: 1 %}
+              {{ site.data.ui-text[splitted_locale].months[m] }}
+              {{ page_date | date: "%Y" }}
+            {% endcapture %}
+          {% endif %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[splitted_locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page_date }}">{{ page_date }}</time></p>
         {% endif %}
       </footer>
 
@@ -63,7 +78,7 @@ layout: default
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You may also enjoy" }}</h4>
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}
           {% include archive-single.html type="grid" %}

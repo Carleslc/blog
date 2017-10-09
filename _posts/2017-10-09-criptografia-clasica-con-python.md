@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-    image: /assets/images/teachable_machine_animals.png
+    image: /assets/images/rot13.png
 title: "Criptografía clásica con Python"
 date: 2017-10-09 10:06:00
 categories:
