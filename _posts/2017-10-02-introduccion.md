@@ -37,10 +37,10 @@ En cada post hay una sección de **comentarios**, que puedes usar para comentar 
 ## Suscripción
 
 Puedes recibir actualizaciones por _email_ de este blog para no perderte nada.
-<a href="#" id="subscribe" class="btn center">✉ <b>Suscribirse</b></a>
+<a href="#" id="subscribe" class="btn center" target="_blank">✉ <b>Suscribirse</b></a>
 {: .notice}
 
-También puedes seguir este blog con cualquier lector _RSS_ mediante el siguiente **[<img src="/assets/images/rss.png" width="20" height="20"> Feed]({{site.url}}/feed.xml)**.
+También puedes seguir este blog con cualquier lector _RSS_ mediante el siguiente **[<img src="/assets/images/rss.png" width="20" height="20"> Feed]({{site.url}}/feed.xml){: target="_blank"}**.
 {: .notice--warning}
 
 Dicho esto, te espero en el siguiente post.

@@ -67,7 +67,7 @@ es: &DEFAULT_ES
   share_on_label             : "Compartir"
   meta_label                 :
   tags_label                 : "Etiquetas:"
-  categories_label           : "Categorías:"
+  categories_label           : "Categoría:"
   date_label                 : "Actualizado:"
   comments_label             : "Comentar"
   comments_title             :
