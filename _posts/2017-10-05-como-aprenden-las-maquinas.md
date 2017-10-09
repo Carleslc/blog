@@ -31,7 +31,7 @@ Las máquinas son conocidas por ejecutar procesos automáticos de forma mucho m�
 
 Un ordenador puede realizar muchos cálculos matemáticos y de forma realmente rápida, pero cómo podemos hacer para que vea el mundo de la misma forma que nosotros, o mejor todavía, _¿cómo podemos hacer que sean capaces de aprender?_
 
-Esto lo vamos a conseguir _imitando_ hasta cierto grado el cerebro humano, con lo que se conocen como **redes neuronales** artificiales.
+Esto lo vamos a conseguir _imitando_ hasta cierto grado el cerebro humano, con lo que se conocen como [**redes neuronales** artificiales](https://es.wikipedia.org/wiki/Red_neuronal_artificial){: target="_blank"}.
 
 Además, tenemos que tener en cuenta que un ordenador es como un bebé muy terco y obstinado. Por lo que deberemos _enseñarle_ qué es cada cosa que queramos que sepa reconocer. Para que realice este aprendizaje necesitaremos alimentarlo con muchos **ejemplos**, pues con tan sólo unos pocos no le harás cambiar de opinión.
 
@@ -47,8 +47,8 @@ Para realizar esto nos ayudará _Google_ y uno de sus nuevos experimentos llamad
 
 [Acceder a Teachable Machine](https://teachablemachine.withgoogle.com){: .btn .btn--info .center target="_blank"}
 
-Además, es un proyecto _Open Source_ y, por si te interesa, tienes el código disponible [aquí](https://github.com/googlecreativelab/teachable-machine).
+Además, es un proyecto _Open Source_ y, por si te interesa, tienes el código disponible [aquí <span class="fa fa fa-fw fa-github"/>](https://github.com/googlecreativelab/teachable-machine){: target="_blank"}.
 
-Por si te ha sabido a poco, en la propia página tienes mucha más información y enlaces interesantes. Por ejemplo, [aquí](https://quickdraw.withgoogle.com/) tienes otro experimento para que la máquina adivine lo que dibujas y además aprenda gracias a ti. Y [aquí](https://www.youtube.com/watch?v=X8v1GWzZYJ4) tienes un vídeo sobre cómo funciona, explicado con gatitos.
+Por si te ha sabido a poco, en la propia página tienes mucha más información y enlaces interesantes. Por ejemplo, [aquí](https://quickdraw.withgoogle.com/){: target="_blank"} tienes otro experimento para que la máquina adivine lo que dibujas y además aprenda gracias a ti. Y [aquí](https://www.youtube.com/watch?v=X8v1GWzZYJ4){: target="_blank"} tienes un vídeo sobre cómo funciona, explicado con gatitos.
 
 _¿Qué te han parecido estos experimentos?_ Recuerda que si tienes alguna duda puedes comentarla más abajo.
