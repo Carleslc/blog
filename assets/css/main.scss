@@ -31,7 +31,18 @@
   display: none;
 }
 
-.center {
+.image {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+p.center,
+a.center {
   text-align: center;
   width: 100%;
 }
