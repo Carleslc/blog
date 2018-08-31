@@ -18,16 +18,17 @@ Vaya, un lector exigente 🤔
 Bueno, puedo listar algunos temas que podría tratar aquí:
 
 - Guías, tutoriales y consejos de **Informática**
+- **Desarrollo y Producitividad Personal**
+- **Divulgación Científica**
 - Posts de **Opinión**
-- Producitividad Personal
-- Noticias de actualidad
-- Deporte, en especial _Running_
-- Relatos
-- Puzles y entretenimiento
+- ¿Noticias de actualidad?
+- Deporte, en especial **Running**
+- **Relatos**
+- Entretenimiento (**anime** y *manga* son mis preferencias)
 
 Sin embargo, no me limito a estos.
 
-En lo que respecta a la **frecuencia** de publicación no quiero exigirme nada, pues no tengo demasiado tiempo libre, pero aproximadamente podéis esperar entre 1 o 2 publicaciones por semana. Aunque, repito, es sólo orientativo.
+En lo que respecta a la **frecuencia** de publicación no quiero exigirme nada, pues no tengo demasiado tiempo libre, así que lo mismo una semana publico varios posts y luego no escribo durante meses, según me venga. Así es más interesante.
 
 ## Comentarios
 
