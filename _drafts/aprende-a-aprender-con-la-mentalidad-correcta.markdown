@@ -14,7 +14,7 @@ tags:
 
 {: .notice--warning }
 
-*Este artículo contiene notas del libro ["Aprende como Einstein" de Steve Allen](*http://amzn.eu/d/3y7Dhus)*, además de conocimientos y pensamientos propios sobre este tema.*
+*Este artículo contiene notas del libro ["Aprende como Einstein" de Steve Allen](http://amzn.eu/d/3y7Dhus), además de conocimientos y pensamientos propios sobre este tema.*
 
 Un genio no tiene nada que ver con el conocimiento, sino que su principal característica es la **capacidad de aprender**. Ser hábil adaptándose a nuevos entornos y aprender de forma eficaz en nuevos campos de conocimiento es un tipo de inteligencia. Lo mejor de todo es que los métodos para pensar con claridad y aprender con eficiencia se pueden enseñar y se pueden aprender.
 
