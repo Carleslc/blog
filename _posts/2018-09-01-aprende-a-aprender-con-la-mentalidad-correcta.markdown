@@ -1,6 +1,9 @@
 ---
 layout: single
 title: Aprende a aprender con la mentalidad correcta
+date: 2018-09-01T11:33:24+02:00
+header:
+    image: /assets/images/crecimiento_mentalidad.png
 categories:
 - productividad
 tags:
@@ -22,13 +25,15 @@ Aprender a aprender es una de las habilidades más valiosas que puedes desarroll
 
 Uno de los conceptos más importantes es la **mentalidad de crecimiento**. Aquellos con una mentalidad fija creen que tienen un límite genético para sus habilidades y afrontan los problemas con estupor y preocupados por fracasar, asegurando que el fracaso es algo que deben evitar. Sin embargo, quienes poseen una mentalidad de crecimiento, abordan los temas nuevos con expectativas y afrontando los problemas como retos, sin miedo al fracaso y dispuestos a aprender de sus errores. La mentalidad de crecimiento genera la creencia optimista de que puedes lograr casi cualquier cosa si inviertes el suficiente trabajo y tiempo. Esto hará que aprendas más rápido y en la dirección correcta.
 
+<img src="https://cdn-images-1.medium.com/max/1600/0*PjYabD3Naf8TcKzO.jpg" align="center" class="image">
+
 Estas son algunas cosas en las debes centrarte para tener una ***mentalidad de crecimiento***:
 
 * **Olvídate de los "*problemas*"**. A partir de ahora son "*retos*" que afrontar. Pueden ser difíciles, pero con motivación y constancia se pueden superar. **Nada es imposible** (🙋‍♂️ *ya, ¿pero y si...?*). Olvídate, no busques excusas, ¿de qué te servirá limitarte? Necesitas dar lo mejor de ti mismo para alcanzar tus objetivos más altos.
 
 * **Tus errores y tus fracasos son tus amigos**. Se aprende mucho más si fracasas en algo que si te sale bien. Imagínate la utópica situación en la que todo lo que haces tiene éxito sin esforzarte lo más mínimo, sin desviarte de tus planes iniciales. Llegará un momento en el que te aburrirás, y no sabrás si estás superando ningún reto, porque no tendrás retos por superar. El esfuerzo tiene su recompensa. Sin esfuerzo no hay recompensa.
 
-* **Lee con frecuencia**. En los libros puedes aprender de los fracasos de los demás, además de abrirte nuevas puertas. Incluso una novela puede hacerte razonar, descubrirte nuevos mundos, obtener nuevos puntos de vista sobre algo que consideras importante. Ahora en tiempos de Internet también puedes leer blogs como este. En los escritos se encuentra el conocimiento de toda la humanidad durante el paso del tiempo. Una de las formas de inmortalizar los pensamientos es la escritura y su posterior lectura. La comunicación con el autor, aunque lleve siglos muerto. Puedes empezar con diez minutos de lectura diaria, no te engañes pensando que no tienes tiempo. Acabando de leer este post ya lo habrás cumplido hoy. Selecciona adecuadamente lo que lees. Si no sabes por dónde empezar escoge tres libros: uno sobre tu rama profesional que te permita mejorar en lo que eres bueno, otro más personal para entretenerte de un género que te guste, y finalmente otro sobre un tema que crees que te gustaría conocer pero no tienes experiencia. A partir de ahí ya sabrás escoger nuevos libros.
+* **Lee con frecuencia**. Con los libros puedes inspirarte y aprender de los éxitos y fracasos de los demás, además de abrirte nuevas puertas. Incluso una novela puede hacerte razonar, descubrirte nuevos mundos, obtener nuevos puntos de vista sobre algo que consideras importante. Ahora en tiempos de Internet también puedes leer blogs como este. En los escritos se encuentra el conocimiento de toda la humanidad durante el paso del tiempo. Una de las formas de inmortalizar los pensamientos es la escritura y su posterior lectura. La comunicación con el autor, aunque lleve siglos muerto. Puedes empezar con diez minutos de lectura diaria, no te engañes pensando que no tienes tiempo. Acabando de leer este post ya lo habrás cumplido hoy. Selecciona adecuadamente lo que lees. Si no sabes por dónde empezar escoge tres libros: uno sobre tu rama profesional que te permita mejorar en lo que eres bueno, otro más personal para entretenerte de un género que te guste, y finalmente otro sobre un tema que crees que te gustaría conocer pero no tienes experiencia. A partir de ahí ya sabrás escoger nuevos libros.
 
 * **Nútrete del pasado, piensa en el futuro, realiza en el presente**. De nada sirven las preocupaciones por algo que hiciste en un pasado. No podrás cambiar el pasado, supongo que ya lo sabes bien. Pero... ¿sabes algo? El futuro sí lo puedes cambiar. De hecho, lo puedes escribir. Por ahora no voy a entrar profundamente en metafísica sobre la existencia del destino: me da igual. Si existe el destino no lo podrás cambiar, así que asegúrate de disfrutar cada paso que des. Si no existe no hay preocupaciones, así que es mejor creer que no existe, aunque así fuera. Lo que pienses, será. Por último, no te olvides de dar un paso cada día en la dirección que consideres más correcta. Si te propones algo pero no haces nada para conseguirlo no lo lograrás. Recuerda, si quieres hacer algo, es mejor hacerlo hoy que mañana. Porque si lo haces al revés, mañana volverás a posponerlo, y puede ser que ya no haya un mañana para hacerlo. Ponte con ello, y ponte ahora. Ahora que puedes.
 
