@@ -68,7 +68,7 @@ Además, por si te parece poco, estos algoritmos pueden combinarse con las redes
 
 <iframe width="640" height="390" src="https://www.youtube-nocookie.com/embed/P7XHzqZjXQs" frameborder="0" allowfullscreen></iframe>
 
-Está en portugués, pero para lo que no se entienda tiene substítulos en inglés.
+Está en portugués, pero para lo que no se entienda tiene subtítulos en inglés.
 
 Por supuesto, también tienes el código disponible [aquí <span class="fa fa fa-fw fa-github"/>](https://github.com/ivanseidel/IAMDinosaur){: target="_blank"}.
 
