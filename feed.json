@@ -30,6 +30,7 @@ layout: null
             {% if post.link %}"external_url": "{{ post.link }}",{% endif %}
             {% if post.header.image %}"banner_image": "{{ post.header.image | absolute_url }}",{% endif %}
             {% if post.tags %}"tags": {{ post.tags | jsonify }},{% endif %}
+            {% if post.categories %}"categories": {{ post.categories | jsonify }},{% endif %}
             {% if post.enclosure %}"attachments": [ {
               "url": "{{ post.enclosure }}",
               "mime_type": "{{ post.enclosure_type }}",
