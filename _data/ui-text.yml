@@ -72,7 +72,7 @@ es: &DEFAULT_ES
   comments_label             : "Comentar"
   comments_title             :
   more_label                 : "Ver más"
-  related_label              : "Podrías ver también"
+  related_label              : "También te puede gustar"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
   powered_by                 : "Proveído por"
