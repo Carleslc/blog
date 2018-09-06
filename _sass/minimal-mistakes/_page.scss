@@ -25,6 +25,39 @@
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-right: $right-sidebar-width-narrow-post;
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width});
+    padding-right: $right-sidebar-width-post;
+  }
+
+  .page__inner-wrap {
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+
+    .page__content,
+    .page__meta,
+    .page__share {
+      position: relative;
+      float: left;
+      margin-left: 0;
+      margin-right: 0;
+      width: 100%;
+      clear: both;
+    }
+  }
+}
+
+.page-with-toc {
+
+  @include breakpoint($large) {
+    float: right;
+    width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
   }
 
@@ -224,8 +257,7 @@
    ========================================================================== */
 
 .page__share {
-  margin-top: 2em;
-  padding-top: 1em;
+  margin-top: 1em;
   border-top: 1px solid $border-color;
 
   @include breakpoint(max-width $small) {
@@ -254,7 +286,7 @@
    ========================================================================== */
 
 .page__meta {
-  margin-top: 2em;
+  margin-top: 1em;
   color: mix(#fff, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
@@ -318,9 +350,8 @@
 }
 
 .page__comments-title {
-  margin-top: 2rem;
   margin-bottom: 10px;
-  padding-top: 2rem;
+  padding-top: 1rem;
   font-size: $type-size-6;
   border-top: 1px solid $border-color;
   text-transform: uppercase;
@@ -413,17 +444,11 @@
 .page__related {
   @include clearfix();
   float: left;
-  margin-top: 2em;
-  padding-top: 1em;
+  margin-top: 1em;
   border-top: 1px solid $border-color;
 
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-  }
-
-  @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
   }
 
   a {

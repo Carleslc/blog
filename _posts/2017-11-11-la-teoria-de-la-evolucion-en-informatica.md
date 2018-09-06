@@ -19,9 +19,9 @@ Bueno, es una pregunta realmente difícil de responder. Ya vimos el concepto de 
 <img src="https://pilarmass.files.wordpress.com/2013/04/ia1.png" align="right">
 En este caso vamos a conocer otro tipo de sistemas que se utilizan para solucionar problemas que tienen muchas posibles soluciones pero no todas son igual de buenas. Hablamos de los **algoritmos genéticos** los cuales son muy utilizados para resolver problemas de _optimización_.
 
-Estos algoritmos no son especialmente nuevos, pues llevan desde los años 70 siendo objeto de discusión, pero son particularmente interesantes, pues se basan en el concepto de la [_evolución biológica_](https://es.wikipedia.org/wiki/Evolución_biológica){: target="_blank"} comunmente conocida como _selección natural_.
+Estos algoritmos no son especialmente nuevos, pues llevan desde los años 70 siendo objeto de discusión, pero son particularmente interesantes, pues se basan en el concepto de la [_evolución biológica_](https://es.wikipedia.org/wiki/Evolución_biológica) comunmente conocida como _selección natural_.
 
-Seguro que [Charles Darwin](https://es.wikipedia.org/wiki/Charles_Darwin){: target="_blank"} estaría orgulloso de estos algoritmos.
+Seguro que [Charles Darwin](https://es.wikipedia.org/wiki/Charles_Darwin) estaría orgulloso de estos algoritmos.
 
 ### --- Bien, entonces... ¿estos algoritmos pueden mejorarse a sí mismos?
 {: .notice}
@@ -32,7 +32,7 @@ Más o menos. No es el algoritmo en sí el que se cambia, pero sí que permite m
 
 En la naturaleza y según el mecanismo de la selección natural los seres vivos se adaptan al entorno gracias a las características heredadas de sus progenitores, y dentro de los individuos de una especie en una generación determinada las probabilidades de supervivencia son proporcionales al rendimiento de esas características.
 
-El funcionamiento de estos algoritmos pretende simular ese comportamiento. Enfrentaremos a nuestro algoritmo genético a un escenario para el que no ha sido preparado. Buscaremos entonces el mejor **individuo** (como analogía de la mejor solución) que sepa desenvolverse eficazmente en este escenario. Para esto partiremos de una _selección aleatoria_ de individuos, los pondremos a prueba en este escenario y una vez obtengamos los resultados seleccionaremos un conjunto de ellos, donde los que han mostrado mejores resultados tienen más probabilidades de ser elegidos. Combinaremos los individuos seleccionados mediante las técnicas de [**cruce**](https://es.wikipedia.org/wiki/Recombinación_(computación_evolutiva)){: target="_blank"} y [**mutación**](https://es.wikipedia.org/wiki/Mutación_(computación_evolutiva)){: target="_blank"}, dando lugar a una nueva generación de individuos, los cuales pueden ser potencialmente mejores a la anterior generación. Repetiremos este proceso tantas veces como necesitemos.
+El funcionamiento de estos algoritmos pretende simular ese comportamiento. Enfrentaremos a nuestro algoritmo genético a un escenario para el que no ha sido preparado. Buscaremos entonces el mejor **individuo** (como analogía de la mejor solución) que sepa desenvolverse eficazmente en este escenario. Para esto partiremos de una _selección aleatoria_ de individuos, los pondremos a prueba en este escenario y una vez obtengamos los resultados seleccionaremos un conjunto de ellos, donde los que han mostrado mejores resultados tienen más probabilidades de ser elegidos. Combinaremos los individuos seleccionados mediante las técnicas de [**cruce**](https://es.wikipedia.org/wiki/Recombinación_(computación_evolutiva)) y [**mutación**](https://es.wikipedia.org/wiki/Mutación_(computación_evolutiva)), dando lugar a una nueva generación de individuos, los cuales pueden ser potencialmente mejores a la anterior generación. Repetiremos este proceso tantas veces como necesitemos.
 
 Para poder realizar esto necesitaremos lo siguiente:
 
@@ -60,9 +60,9 @@ Posiblemente estés un poco confuso con todo esto, así que lo mejor para asimil
 
 Puedes probarlo tú mismo aquí:
 
-[ACTUALLY Improved Evolution Simulator](https://www.openprocessing.org/sketch/377698){: .btn .btn--info .center target="_blank"}
+[ACTUALLY Improved Evolution Simulator](https://www.openprocessing.org/sketch/377698){: .btn .btn--info .center }
 
-Tienes el código escrito en [Processing](https://www.processing.org){: target="_blank"} disponible en la misma página.
+Tienes el código escrito en [Processing](https://www.processing.org) disponible en la misma página.
 
 Además, por si te parece poco, estos algoritmos pueden combinarse con las redes neuronales, permitiendo enfrentar el mismo algoritmo genético a escenarios diferentes y obtener mejores resultados a la hora de mejorar los pesos de una red neuronal. Podemos ver esto en un ejemplo, utilizando un algoritmo genético y una red neuronal para hacer que un ordenador aprenda a jugar al mítico dinosaurio de Chrome cuando no hay conexión a Internet. En este caso el escenario es diferente porque en cada ejecución de este juego la distribución del nivel es diferente. También nos ofrece una sencilla explicación sobre redes neuronales y algoritmos genéticos, no tiene desperdicio:
 
@@ -70,6 +70,6 @@ Además, por si te parece poco, estos algoritmos pueden combinarse con las redes
 
 Está en portugués, pero para lo que no se entienda tiene subtítulos en inglés.
 
-Por supuesto, también tienes el código disponible [aquí <span class="fa fa fa-fw fa-github"/>](https://github.com/ivanseidel/IAMDinosaur){: target="_blank"}.
+Por supuesto, también tienes el código disponible [aquí <span class="fa fa fa-fw fa-github"/>](https://github.com/ivanseidel/IAMDinosaur).
 
 Fascinante, ¿verdad?
