@@ -8,12 +8,12 @@
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: $right-sidebar-width-narrow-post;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    padding-right: $right-sidebar-width-post;
   }
 
   a {
@@ -23,7 +23,7 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  margin: 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
