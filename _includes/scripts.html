@@ -1,6 +1,20 @@
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 <script src="{{ '/assets/js/super-search.js' | absolute_url }}"></script>
 
+<!-- Fix sidebar paddings -->
+<script>
+    if ($(".sidebar__right").length) {
+        var page = $('.page');
+        page.removeClass('page');
+        page.addClass('page-with-toc');
+    }
+</script>
+
+<!-- Links in blank page -->
+<script>
+    $('a[href^="http"]').not('a[href^="{{ site.url }}"]').attr('target', '_blank');
+</script>
+
 <!-- Search -->
 <script>
     superSearch({
@@ -15,7 +29,7 @@
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js"
         data-dojo-config="usePlainJson: true, isDebug: false"></script>
 <script>
-    $("#subscribe").click(function(e) {
+    function subscribe(e) {
         e.preventDefault(); // Prevent the link trying to navigate to another page
         var href = $(this).attr("href");
 
@@ -24,9 +38,9 @@
         require(["mojo/signup-forms/Loader"], function(L) {
             L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"2a169d38f834d3724e7764184","lid":"8aebc7cbf0"})
         });
-
-        // window.location = href; // Navigation
-    });
+    }
+    $("#subscribe").click(subscribe);
+    $("#subscribe-intro").click(subscribe);
 </script>
 
 <!-- Math Integration (LaTeX) -->
