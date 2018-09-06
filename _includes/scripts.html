@@ -10,6 +10,19 @@
     }
 </script>
 
+<!-- Accordion -->
+<script>
+    $(".accordion-btn").click(function() {
+        $(this).toggleClass("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight){
+            panel.style.maxHeight = null;
+        } else {
+            panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+    });
+</script>
+
 <!-- Links in blank page -->
 <script>
     $('a[href^="http"]').not('a[href^="{{ site.url }}"]').attr('target', '_blank');
