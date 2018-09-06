@@ -180,10 +180,9 @@
   display: flex;
   -webkit-box-align: center;
         align-items: center;
-  background: $background-color;
+  background: $background-nav-color;
 
   a {
-    display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
@@ -191,10 +190,6 @@
 
     &:hover {
       color: $masthead-link-color-hover;
-    }
-
-    &.site-title {
-      margin-left: 0;
     }
   }
 
@@ -231,6 +226,7 @@
 
     a {
       position: relative;
+      display: block;
 
       &:before {
         content: "";
