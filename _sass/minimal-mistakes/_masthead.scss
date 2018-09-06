@@ -4,7 +4,8 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid $border-nav-color;
+  background-color: $background-nav-color;
   -webkit-animation: $intro-transition;
           animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -15,7 +16,11 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 0.5em;
+    background-color: $background-nav-color;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
     max-width: 100%;
     display: -webkit-box;
     display: flex;
