@@ -15,7 +15,7 @@ tags:
 
 Hoy voy a plantearte la siguiente pregunta: _¿puede un algoritmo mejorarse a sí mismo?_
 
-Bueno, es una pregunta realmente difícil de responder. Ya vimos el concepto de **redes neuronales** en el post de [_Cómo aprenden las máquinas_]({% post_url 2017-10-05-como-aprenden-las-maquinas %}), las cuales son excelentes para reconocer patrones y son capaces de entrenarse a sí mismas para dar mejores resultados.
+Bueno, es una pregunta realmente difícil de responder. Ya vimos el concepto de **redes neuronales** en el post de [_Cómo aprenden las máquinas_]({{ site.baseurl }}{% post_url 2017-10-05-como-aprenden-las-maquinas %}), las cuales son excelentes para reconocer patrones y son capaces de entrenarse a sí mismas para dar mejores resultados.
 <img src="https://pilarmass.files.wordpress.com/2013/04/ia1.png" align="right">
 En este caso vamos a conocer otro tipo de sistemas que se utilizan para solucionar problemas que tienen muchas posibles soluciones pero no todas son igual de buenas. Hablamos de los **algoritmos genéticos** los cuales son muy utilizados para resolver problemas de _optimización_.
 
