@@ -22,6 +22,8 @@ tags:
 
 Desde siempre a mí me ha costado dormir de forma estable, además de que de forma natural siempre he sido muy noctámbulo. Durante la secundaria me levantaba media hora antes de entrar a clase (vivía a un minuto del instituto) y mi único desayuno era una taza de café. Cuando fui a Bachillerato y tenía que coger el tren me levantaba entre las 6 y las 6:30 y Muchos días de universidad llegaba a casa. y en los últimos años he ido obteniendo información acerca del sueño y experimentado diferentes métodos y herramientas para dormir cada vez un poco mejor, pues llega un punto en que los efectos sobre la salud empiezan a notarse. Todavía a día de hoy sigo experimentando y me falta bastante para conseguir dormir como me gustaría, pero cada vez estoy más contento con mi calidad del sueño. Porque no se trata solo de dormir más, sino de dormir mejor.
 
+También sufría microsueños en clase.
+
 Voy a tratar de explicarte cómo funciona el sueño y qué puedes hacer para mejorar tus hábitos de sueño.
 
 ## Algunas estadísticas
@@ -63,7 +65,7 @@ No obstante, este reparto de energía también produce **desperdicios** que debe
 
 En el cerebro, además, existe otro mecanismo de limpieza de desechos, llamado sistema glinfático. Los vasos linfáticos del cerebro, recientemente descubiertos, tan solo están en la membrana externa del cerebro. El líquido cefalorraquídeo del sistema glinfático es un líquido limpio y transparente que baña nuestro cerebro y lo protege de impactos y golpes. En este líquido también se concentran esos desperdicios, para luego ser depositados en la sangre, de forma similar al sistema linfático. A diferencia de los vasos linfáticos, este líquido no se queda solo en la superficie del cerebro sino que se adentra por toda la masa cerebral lo que permite limpiar los desechos de todo el cerebro. Es una estrategia muy eficiente para la eliminación de desperdicios pues ocupa menos espacio que los vasos linfáticos. Sin embargo, el proceso de limpieza de este líquido no se da mientras estamos despiertos.
 
-Cuando nos dormimos profundamente la actividad eléctrica cerebral disminuye y las células cerebrales (neuronas y células gliales) encogen, pues ya no necesitan estar al máximo de energía, y se abre el espacio entre células, lo que permite que el líquido cefalorraquídeo fluya a través de ellas y limpie los desperdicios depositados en el cerebro durante la vigilia. Este proceso de limpieza es tan importante que incluso algunos de estos desperdicios los genera el propio cuerpo para que tengas la urgencia de irte a dormir, como es el caso de la adenosina, de la cual hablaré más adelante.
+Cuando nos dormimos profundamente la actividad eléctrica cerebral disminuye y las células cerebrales (neuronas y células gliales) encogen, pues ya no necesitan estar al máximo de energía, y se abre el espacio entre células, lo que permite que el líquido cefalorraquídeo fluya a través de ellas y limpie los desperdicios depositados en el cerebro durante la vigilia. Este proceso de limpieza es tan importante que incluso algunos de estos desperdicios los genera el propio cuerpo para que tengas la urgencia de irte a dormir, como la adenosina de la cual hablaré más tarde.
 
 En esta charla se explica este mecanismo de limpieza cerebral:
 
@@ -71,7 +73,7 @@ En esta charla se explica este mecanismo de limpieza cerebral:
 
 Debería ser obvio, pero pasamos por alto las consecuencias que tiene el no disponer de un buen descanso. Quizás todavía piensas que no necesitas dormir, que dormir menos horas de las recomendadas es suficiente para ti, o que es mejor quedarte estudiando o trabajando un rato más que irte a dormir. Si piensas así, esos pensamientos te están matando, literalmente.
 
-Dormir por debajo de tus necesidades produce *fatiga mental y muscular, mal humor, falta de concentración, incapacidad en el aprendizaje, bajan las defensas del sistema inmunológico y aumenta el riesgo de padecer enfermedades como la diabetes, obesidad, párkinson, alzheimer e incluso el riesgo de muerte prematura*, entre otros trastornos.
+Dormir por debajo de tus necesidades produce *fatiga mental y muscular, mal humor, falta de concentración, incapacidad en el aprendizaje, bajan las defensas del sistema inmunológico y aumenta el riesgo de padecer enfermedades como la depresión, diabetes, obesidad, párkinson, alzheimer, cáncer e incluso el riesgo de muerte prematura*, entre otros trastornos.
 
 Esta animación también puede ayudarte a entender esto:
 
@@ -123,7 +125,7 @@ Existe un lugar escondido en el hipotálamo de tu cerebro llamado **núcleo supr
 
 Existen ritmos circadianos (patrones que se repiten aproximadamente cada 24 horas), ritmos ultradiarios (patrones en ciclos más cortos de 24 horas, como los patrones de alimentación) y ritmos infradiarios (patrones más largos de 24 horas, como el ciclo menstrual femenino).
 
-Estos ritmos tienen una fuerte componente **genética**. Es decir, biológicamente tu forma natural de medir el tiempo se debe principalmente a factores hereditarios. Sin embargo, no son los únicos factores que regulan su funcionamiento.
+Estos ritmos tienen una componente **genética**. Es decir, biológicamente tu forma natural de medir el tiempo se debe principalmente a factores hereditarios. Sin embargo, no son los únicos factores que regulan su funcionamiento.
 
 Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de sueño / vigilia, la temperatura corporal, la presión arterial, el tiempo de reacción, los niveles de alerta, los patrones de secreción hormonal y las funciones digestivas*. Por ejemplo el ritmo circadiano de la temperatura corporal hace oscilar tu temperatura arriba y abajo a lo largo del día unos 2 grados centígrados. Mientras dormimos nuestra temperatura corporal está en sus mínimos. A lo largo del día pueden haber varios picos.
 
@@ -133,20 +135,66 @@ Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de sueño / 
 
 <img src="/assets/images/sleep/ritmos-circadianos.jpeg" align="center">
 
-Este reloj no coincide exactamente con la rotación terrestre. En los humanos su ciclo **excede las 24 horas entre 15 y 30 minutos**, dependiendo de cada persona. Esta es la principal causa de que a veces, si no decidimos conscientemente cuando nos vamos a la cama, tenemos una tendencia a irnos a dormir cada día un poco más tarde que el día anterior. ** ESTUDIO **
+Este reloj no coincide exactamente con la rotación terrestre. En los humanos su ciclo **excede las 24 horas entre 15 y 30 minutos**, dependiendo de cada persona. Esta es la principal causa de que a veces, si no decidimos conscientemente cuando nos vamos a la cama, tenemos una tendencia a irnos a dormir cada día un poco más tarde que el día anterior.
 
-Dado su desfase, es necesario que estos se sincronicen con los factores externos para adaptarse al entorno. El factor principal que permite **sincronizar** este reloj es la **luz ambiental**.
+Dado su desfase, es necesario que estos se sincronicen con los factores externos para adaptarse al entorno. Estos factores externos que nos dan indicaciones sobre el tiempo se llaman *zeitgebers* (donantes de tiempo). El principal zeitgeber que nos permite **sincronizar** este reloj es la **luz ambiental**.
 
-**Los factores externos influyen en tus ritmos biológicos**. Por ejemplo, la exposición a la **luz solar**, las **drogas** y la **cafeína** pueden afectar tus horarios de sueño.
+**Los factores externos influyen en tus ritmos biológicos**. Por ejemplo, la exposición a la **luz solar**, las **drogas** y la **cafeína** pueden afectar tus horarios de sueño desfasando tus ritmos circadianos.
+
+El **jet lag** se da cuando hay un fuerte desfase entre nuestros ritmos circadianos y los factores externos. El cuerpo tarda unos días en sincronizar el reloj biológico a las nuevas condiciones ambientales.
+
+En la siguiente animación tienes más información sobre cómo funciona el reloj biológico:
+
+<iframe width="640" height="390" src="https://www.youtube-nocookie.com/embed/Y8ZXOfWUbms" frameborder="0" allowfullscreen></iframe>
+
+## ¿Qué significa "tener sueño"?
+
+El núcleo supraquiasmático encargado de tu reloj biológico se comunica con otras áreas del tálamo y el hipotálamo. Existe una glándula en el hipotálamo de tu cerebro llamada **glándula pineal** que tiene una fuerte relación con tu reloj biológico. Esta glándula, mediante los niveles de luz ambiental que recibe por la retina y otros zeitgebers, se encarga de liberar una hormona llamada **melatonina**. Normalmente los niveles de melatonina comienzan a aumentar a mitad y final de la tarde, se mantienen altos durante la mayor parte de la noche, y luego descienden a partir de las primeras horas de la mañana. Esta hormona puede influenciar sobre tus ritmos circadianos.
+
+La melatonina es la encargada de decirle a tu reloj biológico cuándo es de día y cuándo es de noche, de forma que pueda sincronizarse correctamente. Esta hormona se encarga de decirte "ahora sería un buen momento para estar durmiendo" y "creo que ya va siendo hora de despertar", diciéndote cuándo deberías irte a dormir y cuándo despertarte. Pero ya sabemos todos que, de forma consciente, podemos ignorar estas recomendaciones. Desde luego, lo más sensato para nuestra regularidad de sueño es seguir sus recomendaciones, pero el hecho de poder ignorarlo significa que esta hormona no es la encargada de decirnos si tenemos sueño o no. De eso se encarga la **adenosina** conjuntamente con nuestro ritmo sueño / vigilia, en algo que podemos llamar *presión del sueño*.
+
+La adenosina es una molécula utilizada en la conversión de energía que actúa como neuroprotector. Hay receptores de adenosina repartidos por todo el cuerpo. Los receptores de adenosina de las neuronas cerebrales inhiben la transmisión de impulsos nerviosos, puesto que inhiben la liberación de *acetilcolina*, una molécula que actúa como neurotransmisor, pasando información de una neurona a otra, muy presente en los circuitos relacionados con la memoria y las recompensas. Esto significa que cuanta más adenosina haya en nuestro cerebro más **somnolencia** tenemos pues disminuye la transmisión de información entre neuronas, haciendo que disminuya la actividad eléctrica y disminuyendo nuestras capacidades sensoriales y de memoria.
+
+La adenosina se libera mientras estamos despiertos y se reduce mediante el sistema glinfático cuando estamos durmiendo. De esta forma, mientras más tiempo nos mantenemos despiertos, más cantidad de adenosina se acumula y consecuentemente más sueño tenemos.
+
+Sin embargo, si alguna vez habéis estado mucho tiempo sin dormir habréis notado que el sueño no siempre va a más, sino que hay momentos en los que pareces estar más despierto, aún llevando muchas horas sin dormir. Por ejemplo, yo lo noté especialmente algunas veces que me quedé sin dormir por la noche y sobre las 8 de la mañana tenía muchísimo sueño, pero aguantando hasta las 11 de la mañana luego ya no tenía tanto sueño... ¿Qué sucede aquí? ¿No he dicho que cuanta más adenosina hay, más sueño tenemos? Bueno, no exactamente. Hay algo más que también influye de lo que ya hemos hablado: el ritmo sueño / vigilia. Como ya he dicho anteriormente, durante el día hay picos de energía. Momentos en los que estás muy activo, luego pasas a estar somnoliento por ejemplo después de comer, y luego vuelves a estar despierto por la tarde. Esto se debe a tus ritmos circadianos, que oscilan entre un pico de alta actividad que luego decae para nuevamente volver a subir.
+
+La sensación de somnolencia, o de **tener sueño**, se debe a la diferencia que existe entre la cantidad de adenosina en nuestro cerebro y el estado del ritmo sueño / vigilia. Eso es la *presión del sueño*. A mayor diferencia, mayor somnolencia.
+
+En el siguiente gráfico podemos verlo con mayor claridad. El proceso S mide la regulación homeostática (cantidad de adenosina) mientras que el proceso C mide el ritmo circadiano de sueño / vigilia, regulado por la melatonina. La diferencia entre ambas medidas es la presión del sueño.
+
+<img src="/assets/images/sleep/sleep-deprivation-graph.png" align="center">
+
+Como podemos observar, si nos vemos privados del sueño la cantidad de adenosina sigue aumentando. En el gráfico anterior el momento de mayor somnolencia sería aproximadamente a las 7 am, cuando la adenosina (línea roja) está alta y los ritmos circadianos están en sus mínimos.
+
+El momento en el que te despiertas de forma natural (sin despertadores) es aquel en el que se ha eliminado el exceso de adenosina y los ritmos circadianos empiezan a subir (cuando la presión del sueño es mínima). La melatonina y los zeitgebers también ayudan en esta decisión.
 
 ## El cronotipo
 
 Búhos, Alondras y Colibríes + Test
 
-## ¿Qué significa "tener sueño"?
+<img src="/assets/images/sleep/chronotype-preferences-age.png" align="right" class="image">
 
-El núcleo supraquiasmático encargado de tu reloj biológico se comunica con otras áreas del tálamo y el hipotálamo. Existe una glándula en el hipotálamo de tu cerebro llamada **glándula pineal** que tiene una fuerte relación con tu reloj biológico. Esta glándula, mediante los niveles de luz ambiental, se encarga de liberar una hormona llamada **melatonina**. Esta hormona puede influenciar sobre tus ritmos circadianos.
+Nuestras preferencias de sueño cambian a lo largo de los años. Esto es algo que no parece tenerse en cuenta en nuestra sociedad y sin embargo es muy importante. Esta incomprensión causa un aumento del fracaso escolar por empezar las clases demasiado temprano para los jóvenes, y también causa incomprensión de los padres hacia sus hijos sobre porqué no se van a dormir antes. No es que sean perezosos, ¡es que sus ritmos circadianos son diferentes al de los padres! Pedirle a un adolescente que se vaya a dormir a las 22h es como pedirle a un adulto de 50 años que se vaya a dormir a las 19h. De igual forma, pedirle que se levante a las 7h y esté alerta para aprender y de buen humor es como pedirle al adulto que se levante a las 4h o las 5h y haga lo mismo.
 
-La melatonina es la encargada de decirle a tu reloj biológico cuándo es de día y cuándo es de noche, de forma que pueda sincronizarse correctamente. Esta hormona se encarga de decirte "ahora sería un buen momento para estar durmiendo" y "creo que ya va siendo hora de despertar". Pero ya sabemos todos que, de forma consciente, podemos ignorar estas recomendaciones. Desde luego, lo más sensato para nuestra regularidad de sueño es seguir sus recomendaciones, pero el hecho de poder ignorarlo significa que esta hormona no es la encargada de decirnos si tenemos sueño o no. De eso se encarga la **adenosina** conjuntamente con nuestro ritmo sueño / vigilia, en algo que podemos llamar *presión del sueño*.
+## El enemigo de la adenosina: la cafeína
 
-SLEEP PRESSURE
+¿Conoces los efectos de la cafeína? Quizás pienses que una taza de café "te da más energía", pero no es verdad, eso es solo una ilusión. Efectiva, pero una ilusión. Recordemos que la cafeína es una droga.
+
+La cafeína es una molécula con efectos estimulantes. Su similitud molecular con la adenosina hace que bloquee los mismos receptores que perciben la adenosina, engañándolos e inhibiendo la respuesta a la adenosina y por lo tanto evitando que se ralentice la actividad cerebral. De esta forma no sentimos la adenosina y por lo tanto parece que disminuye la presión del sueño. Sin embargo, esa disminución de la presión del sueño es una alucinación del cerebro. Que nuestro cerebro no tenga las facultades de detectar la adenosina no significa que no haya adenosina. De hecho, sigue aumentando haya cafeína o no.
+
+Lo mismo se aplica para la *guaranina* (del guaraná, presente en muchas bebidas energéticas) y la *teína* (del té), pues son nombres diferentes para una misma cosa: cafeína.
+
+## Las fases del sueño
+
+Una cosa que hay que comprender es que el tiempo que pasamos en la cama no es equivalente al total de tiempo que pasamos durmiendo. Y no todo el tiempo que pasamos durmiendo es sueño de calidad. Para empezar, se tardan aproximadamente **14 minutos** en dormirse (de media). Este tiempo cambiará según tu regularidad y calidad del sueño.
+
+Una vez estamos dormidos el sueño se divide en cinco fases repetitivas en el siguiente orden: dos fases de sueño ligero, dos fases de sueño profundo (**NREM**) y una fase de sueño **REM**. El ciclo del sueño dura una media de **90 minutos**, aunque esta duración es variable por persona y según el total de horas que llevamos durmiendo, entre 72 y 108 minutos. En los primeros ciclos de sueño la fase de sueño profundo NREM dura más tiempo y conforme avanzan los ciclos la fase REM toma preferencia. Un sueño de calidad se compone de **5 o 6 repeticiones** de este ciclo con una cantidad suficiente de sueño profundo.
+
+<img src="/assets/images/sleep/cycle.png" align="center">
+
+Una vez conseguimos dormirnos entramos en una fase de sueño ligero, en la que es fácil despertarnos con cualquier ruido, luz o molestia. Después de unos minutos caemos en un sueño ligero más profundo.
+
+...
+
+Si nos despertamos durante la noche esto puede romper el ciclo y disminuir la cantidad de sueño profundo NREM. Hay que tener en cuenta también que durante la noche podemos tener despertares que interrumpan nuestro sueño pero de los cuales no somos conscientes, lo cual suele ocurrir en despertares de menos de 30 segundos (normalmente causados por molestias o ruidos). Por tanto, disminuir estos despertares creando un ambiente idóneo para el sueño puede mejorar la calidad de nuestro sueño. Un ambiente sin ruidos, sin luz y a una temperatura óptima de 18-19 grados.
