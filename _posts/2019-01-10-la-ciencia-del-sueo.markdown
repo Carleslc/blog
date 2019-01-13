@@ -30,11 +30,11 @@ Voy a tratar de explicarte cómo funciona el sueño y qué puedes hacer para mej
 
 Si tienes problemas de sueño la verdad es que no eres el único, según la *Sociedad Española de Neurología* hasta un **25% de la población infantil** sufre de algún **trastorno del sueño**. En la **población adulta hasta un 48%** de las personas sufren alguna vez en su vida dificultades a la hora de conciliar o mantener el sueño[^1]. Estos problemas son más comunes en mujeres y personas mayores. El trastorno más común es el insomnio.
 
-[^1]: ["Entre un 20 y un 48% de la población adulta española sufre dificultad para iniciar o mantener el sueño", Sociedad Española de Neurología, Marzo 2018](http://www.sen.es/saladeprensa/pdf/Link182.pdf)
+[^1]: ["Entre un 20 y un 48% de la población adulta española sufre dificultad para iniciar o mantener el sueño", *Sociedad Española de Neurología*, Marzo 2018](http://www.sen.es/saladeprensa/pdf/Link182.pdf)
 
 Según la *Fundación Nacional del Sueño de Estados Unidos* en 2018 la población durmió una media de 6 horas y 41 minutos los días entre semana (por debajo del umbral recomendado) y 7 horas y 26 minutos los fines de semana.[^2] También nos dice que a un tercio de la población le cuesta conciliar el sueño por problemas relacionados con las finanzas, el empleo, las relaciones personales o la salud.
 
-[^2]: ["Sleep Health Index, Quarterly Report – Q2 2018", National Sleep Foundation](https://nsf.parc.us.com/client/index.html#/search)
+[^2]: ["Sleep Health Index, Quarterly Report – Q2 2018", *National Sleep Foundation*](https://nsf.parc.us.com/client/index.html#/search)
 
 En España los datos son similares, según el *Centro de Investigación del Sueño de Flex* en 2016 los españoles **dormimos una media de 7 horas y 6 minutos**. Además, el 41% de la población suele despertarse con la sensación de no haber tenido un sueño reparador[^3].
 
@@ -127,7 +127,7 @@ Existen ritmos circadianos (patrones que se repiten aproximadamente cada 24 hora
 
 Estos ritmos tienen una componente **genética**. Es decir, biológicamente tu forma natural de medir el tiempo se debe principalmente a factores hereditarios. Sin embargo, no son los únicos factores que regulan su funcionamiento.
 
-Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de sueño / vigilia, la temperatura corporal, la presión arterial, el tiempo de reacción, los niveles de alerta, los patrones de secreción hormonal y las funciones digestivas*. Por ejemplo el ritmo circadiano de la temperatura corporal hace oscilar tu temperatura arriba y abajo a lo largo del día unos 2 grados centígrados. Mientras dormimos nuestra temperatura corporal está en sus mínimos. A lo largo del día pueden haber varios picos.
+Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de sueño / vigilia, la temperatura corporal, la presión arterial, el tiempo de reacción, los niveles de alerta, los patrones de secreción hormonal y las funciones digestivas*. Por ejemplo el ritmo circadiano de la temperatura corporal hace oscilar tu temperatura arriba y abajo a lo largo del día y la noche. Mientras dormimos nuestra temperatura corporal está en sus mínimos. A lo largo del día pueden haber varios picos.
 
 ¿Te ha pasado alguna vez que en una hora determinada del día tienes muchas ganas de hacer cosas, te sientes con mucha energía y, al cabo de otra hora, sientes haber perdido toda tu motivación y lo único que te apetece es echarte a dormir? Quizás sea precipitado echarle las culpas al profesor de turno, a tu jefe, o a tu vagancia. Muy probablemente sea una consecuencia de tus ritmos circadianos, en especial el que regula tus niveles de **rendimiento y estado de alerta**.
 
@@ -141,7 +141,7 @@ Dado su desfase, es necesario que estos se sincronicen con los factores externos
 
 **Los factores externos influyen en tus ritmos biológicos**. Por ejemplo, la exposición a la **luz solar**, las **drogas** y la **cafeína** pueden afectar tus horarios de sueño desfasando tus ritmos circadianos.
 
-El **jet lag** se da cuando hay un fuerte desfase entre nuestros ritmos circadianos y los factores externos. El cuerpo tarda unos días en sincronizar el reloj biológico a las nuevas condiciones ambientales.
+El **jet lag** se da cuando hay un fuerte desfase entre nuestros ritmos circadianos y los factores externos. El cuerpo tarda unos días en sincronizar el reloj biológico a las nuevas condiciones ambientales, a un ritmo de una hora por día. Es decir, si vuelas de España a Los Ángeles, con una diferencia de 9 horas, tardarás 9 días en acomodarte completamente al nuevo horario.
 
 En la siguiente animación tienes más información sobre cómo funciona el reloj biológico:
 
@@ -169,6 +169,42 @@ Como podemos observar, si nos vemos privados del sueño la cantidad de adenosina
 
 El momento en el que te despiertas de forma natural (sin despertadores) es aquel en el que se ha eliminado el exceso de adenosina y los ritmos circadianos empiezan a subir (cuando la presión del sueño es mínima). La melatonina y los zeitgebers también ayudan en esta decisión.
 
+## El antagonista de la adenosina: la cafeína
+
+¿Conoces los efectos de la **cafeína**? Quizás pienses que una taza de café "te da más energía", pero no es verdad, eso es solo una ilusión. Recordemos que la cafeína es una **droga**.
+
+La cafeína es una molécula con efectos estimulantes. Su similitud molecular con la adenosina hace que bloquee los mismos receptores que perciben la adenosina, engañándolos e **inhibiendo la respuesta a la adenosina** y por lo tanto evitando que se ralentice la actividad cerebral. De esta forma no sentimos la adenosina y por lo tanto parece que disminuye la presión del sueño y la fatiga. Sin embargo, esa disminución de la presión del sueño es una alucinación del cerebro. Que nuestro cerebro no tenga las facultades de detectar la adenosina no significa que no haya adenosina. De hecho, sigue aumentando haya cafeína o no, lo que provoca más fatiga conforme se pasan sus efectos.
+
+El café tiene efectos rápidos pues se metaboliza en unos **15 minutos**, aunque no desaparece completamente hasta varias horas después. Sus efectos son más notorios durante la primera hora después del consumo. Aproximadamente después de una hora de haber tomado una taza de café se produce lo que se llama un ***crash*** energético, pues dado ...
+
+La cafeína no actúa con la misma intensidad en todas las personas. Algunas presentan mayor sensibilidad que otras y les hace mayor efecto con menores cantidades. Para liberar *la mitad* de cafeína de nuestro cuerpo se necesitan unas **6 horas**.
+
+La cafeína aumenta el suministro de **adrenalina**, por lo que para mantener el estado de alerta provoca un **aumento** de la **frecuencia cardíaca** así como **estrés** y **nerviosismo**. Ese estrés y estado de alerta aumenta el **rendimiento deportivo** si se toma cafeína en *pequeñas dosis*. Facilita también la liberación de **dopamina**, lo que provoca un sentimiento de placer al consumirse y puede llegar a crear **adicción**. También tiene **efecto vasoconstrictor**, por lo que estrecha los vasos sanguíneos aumentando la **presión arterial**. La cafeína aumenta los niveles de **acidez del estómago** lo que puede llegar a provocar ardor de estómago. De forma similar al alcohol, puede provocar **deshidratación** por sus **propiedades diuréticas**, aunque no de forma significativa. Tiene otros efectos en el metabolismo y la visión. A largo plazo el consumo de cafeína **disminuye** las capacidades de **memoria** y **aprendizaje**.
+
+Para que la adenosina pueda seguir teniendo efecto el cerebro genera más receptores a lo largo de los días y es por este motivo que para tener los mismos efectos cada vez se necesitan más dosis de cafeína, lo que puede llevar a una **dependencia** y dejar la cafeína podría generar síntomas de abstinencia como dolores de cabeza y ánimo depresivo. Además, habiendo más cantidad de receptores también provoca que, en caso de no disponer de cafeína, nos fatiguemos y cansemos con más facilidad ya que se absorbe más adenosina de la habitual. Dicha dependencia de la cafeína se soluciona en apenas unos días, cuando los receptores extra de adenosina desaparecen[^6].
+
+[^6]: ["Así actúa la cafeína en tu cerebro: en 15 minutos hace efecto y dura horas", *El Español*, Agosto 2017](https://www.elespanol.com/ciencia/salud/20170803/236226418_0.html)
+
+Lo mismo se aplica para la *guaranina* (del guaraná, presente en muchas bebidas energéticas) y la *teína* (del té), pues son nombres diferentes para una misma cosa: cafeína.
+
+Algunos investigadores han analizado la dieta y la salud de miles de personas y han sugerido que los bebedores habituales de café son **menos propensos a padecer depresión y a morir de enfermedades cardíacas, cáncer y diabetes**, entre otras afecciones.
+
+[^7]: ["Los efectos de la cafeína en el cerebro y el cuerpo", *Psicoactiva*, 2017](https://www.psicoactiva.com/blog/los-efectos-de-la-cafeina-en-el-cerebro/)
+
+Con la siguiente animación puedes comprender mejor todo esto:
+
+<iframe width="640" height="390" src="https://www.youtube-nocookie.com/embed/foLf5Bi9qXs" frameborder="0" allowfullscreen></iframe>
+
+Si quieres disminuir el consumo de cafeína, el **café descafeinado** parece transmitir muchos de estos mismos beneficios para la salud sin todos los efectos contraproducentes de la cafeína.[^7] No obstante, no te olvides de que café descafeinado no significa que no tenga cafeína, pues tiene aproximadamente entre un 15 y un 30% de la cafeína de un café normal.
+
+Para evitar el crash del café y obtener los efectos de la cafeína de forma estable a lo largo del día yo me he pasado al té. El té también tiene cafeína, pero su absorción es más lenta, por lo que sus efectos duran más tiempo y no producen un crash de energía. Además, hay diferentes variedades de té, algunas con menores dosis de cafeína. Los tés con mayores dosis de cafeína son el té negro y el té rojo. El té con menor cafeína es el té blanco. A continuación te muestro un gráfico de la absorción del café y otras bebidas energéticas en comparación con el té verde.
+
+<img src="../assets/images/sleep/coffee-matcha.png" align="center" width="250" height="250" class="image">
+
+Tomes lo que tomes, no es nada recomendable tomar bebidas con cafeína después de comer, unas 9 horas antes de acostarte, para evitar que la cafeína no te deje dormir con normalidad.
+
+También puedes tomar otras infusiones con funciones digestivas sin cafeína después de comer o incluso después de cenar para relajarte, como el té rooibos.
+
 ## El cronotipo
 
 Búhos, Alondras y Colibríes + Test
@@ -176,14 +212,6 @@ Búhos, Alondras y Colibríes + Test
 <img src="/assets/images/sleep/chronotype-preferences-age.png" align="right" class="image">
 
 Nuestras preferencias de sueño cambian a lo largo de los años. Esto es algo que no parece tenerse en cuenta en nuestra sociedad y sin embargo es muy importante. Esta incomprensión causa un aumento del fracaso escolar por empezar las clases demasiado temprano para los jóvenes, y también causa incomprensión de los padres hacia sus hijos sobre porqué no se van a dormir antes. No es que sean perezosos, ¡es que sus ritmos circadianos son diferentes al de los padres! Pedirle a un adolescente que se vaya a dormir a las 22h es como pedirle a un adulto de 50 años que se vaya a dormir a las 19h. De igual forma, pedirle que se levante a las 7h y esté alerta para aprender y de buen humor es como pedirle al adulto que se levante a las 4h o las 5h y haga lo mismo.
-
-## El enemigo de la adenosina: la cafeína
-
-¿Conoces los efectos de la cafeína? Quizás pienses que una taza de café "te da más energía", pero no es verdad, eso es solo una ilusión. Efectiva, pero una ilusión. Recordemos que la cafeína es una droga.
-
-La cafeína es una molécula con efectos estimulantes. Su similitud molecular con la adenosina hace que bloquee los mismos receptores que perciben la adenosina, engañándolos e inhibiendo la respuesta a la adenosina y por lo tanto evitando que se ralentice la actividad cerebral. De esta forma no sentimos la adenosina y por lo tanto parece que disminuye la presión del sueño. Sin embargo, esa disminución de la presión del sueño es una alucinación del cerebro. Que nuestro cerebro no tenga las facultades de detectar la adenosina no significa que no haya adenosina. De hecho, sigue aumentando haya cafeína o no.
-
-Lo mismo se aplica para la *guaranina* (del guaraná, presente en muchas bebidas energéticas) y la *teína* (del té), pues son nombres diferentes para una misma cosa: cafeína.
 
 ## Las fases del sueño
 
