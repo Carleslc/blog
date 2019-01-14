@@ -28,7 +28,7 @@ Voy a tratar de explicarte cómo funciona el sueño y qué puedes hacer para mej
 
 ## Algunas estadísticas
 
-Si tienes problemas de sueño la verdad es que no eres el único, según la *Sociedad Española de Neurología* hasta un **25% de la población infantil** sufre de algún **trastorno del sueño**. En la **población adulta hasta un 48%** de las personas sufren alguna vez en su vida dificultades a la hora de conciliar o mantener el sueño[^1]. Estos problemas son más comunes en mujeres y personas mayores. El trastorno más común es el insomnio.
+Los problemas de sueño son bastante comunes en el mundo moderno. Según la *Sociedad Española de Neurología* hasta un **25% de la población infantil** sufre de algún **trastorno del sueño**. En la **población adulta hasta un 48%** de las personas sufren alguna vez en su vida dificultades a la hora de conciliar o mantener el sueño[^1]. Estos problemas son más comunes en mujeres y personas mayores. El trastorno más común es el insomnio.
 
 [^1]: ["Entre un 20 y un 48% de la población adulta española sufre dificultad para iniciar o mantener el sueño", *Sociedad Española de Neurología*, Marzo 2018](http://www.sen.es/saladeprensa/pdf/Link182.pdf)
 
@@ -47,7 +47,7 @@ Como explica Juan Antonio Madrid Pérez, catedrático en Fisiología y director 
 
 ## El sueño y la productividad
 
-Nos pasamos un tercio de nuestra vida durmiendo y sin embargo no le damos la importancia que se merece o pensamos que dormir es una pérdida de tiempo y que durmiendo menos seremos más productivos. La realidad es bien diferente.
+Algunas personas consideran que dormir es una pérdida de tiempo y que durmiendo menos conseguirán ser más productivos. La realidad es bien diferente.
 
 Entre los encuestados por la *Fundación Nacional del Sueño de Estados Unidos* solo el 10% de los estadounidenses considera el sueño su principal prioridad a la hora de planificar su día a día.
 
