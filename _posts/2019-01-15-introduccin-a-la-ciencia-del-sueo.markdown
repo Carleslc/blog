@@ -1,5 +1,6 @@
 ---
 title: Introducción a la ciencia del sueño
+date: 2019-01-15T14:01:24+01:00
 header:
     image: /assets/images/sleep/insomnio.jpg
 categories:
@@ -31,19 +32,37 @@ Durante bachillerato tenía que coger el tren pues el instituto estaba en otra c
 
 Los fines de semana siempre han sido el desequilibrio de mi sueño. Muchos fines de semana (viernes y sábado noche) he visto amanecer antes de acostarme. La cantidad de horas de sueño aumentaban de 9 a 12 horas, despertándome por el mediodía o incluso a media tarde, pero la falta de sueño no es algo que se recupere. Incluso he tenido días que me despertaba a la hora de cenar. Y luego a ver si puedes irte a dormir pronto para levantarte el lunes temprano y con energía.
 
-Tener tres o cuatro alarmas seguidas para despertarme por la mañana o por el mediodía ha sido bastante habitual para mí, y aún así en varias ocasiones me he dormido, creyendo que el despertador no había sonado, cuando lo que pasaba era que había sonado y un rato más tarde se había cansado de mí.
+Tener tres o cuatro alarmas seguidas para despertarme por la mañana o por el mediodía ha sido bastante habitual para mí, y aún así en varias ocasiones me he dormido, creyendo que el despertador no había sonado, cuando lo que pasaba era que había sonado y un rato más tarde la alarma se había cansado de mí.
 
 He llegado a probar con despertador y alarma del móvil a la vez, alejando el despertador lo máximo posible para no intentar apagarlo desde la cama o incluso instalando aplicaciones con las que tenías que resolver un problema matemático o leer un código QR que estaba en otra habitación para que se callase la alarma. Soluciones realmente estúpidas y que no ayudan en nada. Hasta con el QR he llegado a meterme de nuevo en la cama y quedarme dormido. Total, por cinco minutos más no va a pasar nada. ¿Qué puede salir mal?
 
+Más de una vez he sufrido lo que se llaman *microsueños* en clase. Es posible que a ti también te haya pasado. Los microsueños son cortas cabezaditas involuntarias. Básicamente te posee una repentina y gran somnolencia, te cuesta cerrar los ojos y mantener la atención y acabas durmiéndote unos pocos segundos. Te enteras de que has tenido un microsueño cuando te despiertas porque se te cae la cabeza contra la mesa, sin llegar a chocar. Luego miras a los lados y esperas que nadie te haya visto. Es realmente frustrante porque cuesta mucho mantenerte atento, incluso aunque el tema que se esté dando te resulte interesante. La causa es, por supuesto, una falta de sueño.
+
 Mi único desayuno ha sido durante muchos años una taza de café, desde la secundaria hasta el primer año de universidad. Tampoco me daba tiempo a mucho más.
 
-**TODO** El colmo de mis problemas llegó en los últimos años, sobretodo en la universidad.
+El colmo de mis problemas llegó en los últimos años, sobretodo en la universidad. Recuerdo especialmente un día en el que me asusté de verdad, durante el primer año de universidad.
 
-**TODO** También sufría microsueños en clase.
+Era un día que había dormido quizás un par de horas, me levanté más tarde de lo habitual y me preparé rápidamente un café. No me dio tiempo ni a ducharme. Salí corriendo de mi casa porque perdía el autobús. Efectivamente, el autobús pasó enfrente de mis narices, pero yo no me di por vencido y salí corriendo detrás de él, hasta cogerlo dos paradas más allá. Ya lo había hecho en anteriores ocasiones, mientras el autobús está parado en una parada recogiendo gente yo iba directo a la siguiente.
 
-En los últimos años he ido obteniendo información acerca del sueño y experimentado diferentes métodos y herramientas para dormir cada vez un poco mejor, pues llega un punto en que los efectos sobre la salud empiezan a notarse. Todavía a día de hoy sigo experimentando y me falta bastante para conseguir dormir como me gustaría, pero cada vez estoy más contento con mi calidad del sueño. Porque no se trata solo de dormir más, sino de dormir mejor.
+Una vez lo cogí el autobús estaba repleto de gente, por lo que no tuve la posibilidad de sentarme. Mi corazón latía con fuerza, mi respiración estaba acelerada, empecé a sudar de la gente que había y del esfuerzo que había hecho por correr bajo los efectos del sueño. El café y su efecto vasoconstrictor que acelera la presión arterial seguramente tampoco ayudó. Pasaron unos diez minutos mientras estaba de pie, mirando mi móvil, cuando me empecé a marear. Estos mareos por el sueño y el esfuerzo me han sucedido en varias ocasiones, pero esa vez no fue un simple mareo con náuseas.
 
-Mi recomendación es que no hagas nada de lo que he hecho yo durante muchos años. Te ofreceré recomendaciones y consejos detallados para mejorar el sueño en el último artículo de esta serie.
+Me guardé el móvil para intentar calmarme. Intenté tranquilizar mi respiración y cerré los ojos. Un par de minutos después abrí los ojos y a mis contenidas ganas de vomitar se sumó una extraña iluminación que notaba a través de las ventanas del autobús. Mi visión empezó a fallar. Cada pocos segundos la estancia parecía estar más iluminada, como cuando aumentas bruscamente la luminosidad de una imagen o de la televisión. Me empecé a estresar todavía más, hasta el punto en que todo se quedó en un absoluto y pulcro blanco. Estaba ciego. Cogí el móvil para disimular que no veía nada, por si había alguien que se enteraba de que muy bien yo no estaba en ese momento. Me lo guardé nuevamente y volví a cerrar los ojos, respirando lentamente y tranquilizándome -- "Todo está bien, esto es pasajero, estás muy cansado y a tu cerebro le faltará agua y azúcar" --.
+
+Desmayarme y perder la consciencia es algo que me da mucho miedo. Por suerte no pasó. Unos eternos minutos más tarde empecé a recuperar mi visión, disminuyendo progresivamente la luminosidad, hasta que todo volvió a la normalidad una parada antes de bajarme en mi destino.
+
+Menuda experiencia. Desde ese día ya no me importa tener que esperar al siguiente autobús, aunque llegue bastante tarde a mi destino. También decidí empezar a tomar té y me acabó gustando, por lo que sustituí el café, que tomo en contadas ocasiones. Además, empecé a interesarme en mejorar mi sueño. Eso estaba llegando demasiado lejos.
+
+Aún así, cambiar el hábito de dormir después de tantos años de irregularidad es muy difícil. Más de un día de universidad he ido sin dormir absolutamente nada.
+
+La última vez que recuerdo quedarme sin dormir bastante tiempo fue hace menos de tres de meses, en Halloween, por lo que todavía me cuesta controlarme. Me pasé unas 36 horas sin dormir, como hice en una *Hackaton* anterior hace un par de años, programando sin descanso para un proyecto, que incluso me olvidaba de comer. Desde las 9 de la mañana de un día hasta las 21 de la noche del siguiente. Muchas de las horas no eran más que tropiezos en lo que estaba haciendo, errores y frustración acumulada.
+
+No dormir no te deja pensar con claridad y empeora tu eficiencia en lo que estés haciendo, ya lo he experimentado varias veces. Tu memoria a corto plazo se ve claramente dañada, pues te olvidas de qué estabas haciendo hace tan solo unos segundos.
+
+El día siguiente fue un absoluto desastre para mi ánimo y la salud. Todo el día estuve con dolor de cabeza, mareos y dolor de estómago. Cada vez que me quedo una noche sin dormir las consecuencias son más graves.
+
+En los últimos años he ido obteniendo información acerca del sueño y experimentado diferentes métodos y herramientas para dormir cada vez un poco mejor, pues llega un punto en que los efectos sobre la salud empiezan a pasar factura. Todavía a día de hoy sigo experimentando y me falta bastante para conseguir dormir como me gustaría, pero cada vez estoy más contento con mi calidad del sueño. Porque no se trata solo de dormir más, sino de dormir mejor.
+
+Mi recomendación es que no hagas nada de lo que he hecho yo durante muchos años. Para lograrlo, te ofrezco mi conocimiento y te cuento mis experiencias. Te ofreceré recomendaciones y consejos detallados para mejorar el sueño en el último artículo de esta serie.
 
 ## Algunas estadísticas
 
@@ -84,6 +103,6 @@ Mientras tanto, cuando se les pregunta a aquellas personas que tienen una excele
 
 [^6]: ["Poll shows americans failing to prioritize sleep", *National Sleep Fundation*, Marzo 2018](https://www.sleepfoundation.org/media-center/press-release/2018-sleep-in-america-poll-shows)
 
-*¿Conocías las estadísticas? ¿Qué problemas tienes con el sueño? Cuéntamelo en los comentarios.*
+*¿Conocías las estadísticas? ¿Has sufrido algo similar a mi experiencia? Cuéntamelo en los comentarios.*
 
 En el próximo artículo hablaré del sueño y su relación con la salud.
