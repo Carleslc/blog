@@ -22,7 +22,6 @@ Bueno, puedo listar algunos temas que podría tratar aquí:
 - **Desarrollo y Producitividad Personal**
 - **Divulgación Científica**
 - Posts de **Opinión**
-- ¿Noticias de actualidad?
 - Deporte, en especial **Running**
 - **Relatos**
 - Entretenimiento (**anime** y *manga* son mis preferencias)
