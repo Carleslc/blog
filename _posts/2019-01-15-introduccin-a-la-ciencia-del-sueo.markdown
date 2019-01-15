@@ -36,7 +36,7 @@ Tener tres o cuatro alarmas seguidas para despertarme por la mañana o por el me
 
 He llegado a probar con despertador y alarma del móvil a la vez, alejando el despertador lo máximo posible para no intentar apagarlo desde la cama o incluso instalando aplicaciones con las que tenías que resolver un problema matemático o leer un código QR que estaba en otra habitación para que se callase la alarma. Soluciones realmente estúpidas y que no ayudan en nada. Hasta con el QR he llegado a meterme de nuevo en la cama y quedarme dormido. Total, por cinco minutos más no va a pasar nada. ¿Qué puede salir mal?
 
-Más de una vez he sufrido lo que se llaman *microsueños* en clase. Es posible que a ti también te haya pasado. Los microsueños son cortas cabezaditas involuntarias. Básicamente te posee una repentina y gran somnolencia, te cuesta cerrar los ojos y mantener la atención y acabas durmiéndote unos pocos segundos. Te enteras de que has tenido un microsueño cuando te despiertas porque se te cae la cabeza contra la mesa, sin llegar a chocar. Luego miras a los lados y esperas que nadie te haya visto. Es realmente frustrante porque cuesta mucho mantenerte atento, incluso aunque el tema que se esté dando te resulte interesante. La causa es, por supuesto, una falta de sueño.
+Más de una vez he sufrido lo que se llaman *microsueños* en clase. Es posible que a ti también te haya pasado. Los microsueños son cortas cabezaditas involuntarias. Básicamente te posee una repentina y gran somnolencia, te cuesta tener los ojos abiertos y mantener la atención y acabas durmiéndote unos pocos segundos. Te enteras de que has tenido un microsueño cuando te despiertas porque se te cae la cabeza contra la mesa, sin llegar a chocar. Luego miras a los lados y esperas que nadie te haya visto. Es realmente frustrante porque cuesta mucho mantenerte atento, incluso aunque el tema que se esté dando te resulte interesante. La causa es, por supuesto, una falta de sueño.
 
 Mi único desayuno ha sido durante muchos años una taza de café, desde la secundaria hasta el primer año de universidad. Tampoco me daba tiempo a mucho más.
 
@@ -106,3 +106,7 @@ Mientras tanto, cuando se les pregunta a aquellas personas que tienen una excele
 *¿Conocías las estadísticas? ¿Has sufrido algo similar a mi experiencia? Cuéntamelo en los comentarios.*
 
 En el próximo artículo hablaré del sueño y su relación con la salud.
+
+Puedes recibir actualizaciones por _email_ de este blog para saber cuando publico el siguiente artículo.
+<a href="#" id="subscribe-intro" class="btn center">✉ <b>Suscribirse</b></a>
+{: .notice}
