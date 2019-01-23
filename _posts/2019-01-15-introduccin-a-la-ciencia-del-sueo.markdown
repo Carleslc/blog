@@ -97,7 +97,7 @@ Algunas personas consideran que dormir es una pérdida de tiempo y que durmiendo
 
 Entre los encuestados por la *Fundación Nacional del Sueño de Estados Unidos* solo el 10% de los estadounidenses considera el sueño su principal prioridad a la hora de planificar su día a día.
 
-<img src="/assets/images/sleep/american-priorities.png" align="center">
+![image-center](/assets/images/sleep/american-priorities.png){: .align-center }
 
 Mientras tanto, cuando se les pregunta a aquellas personas que tienen una excelente calidad de sueño, el 89% responden que se sienten *altamente* eficaces en sus tareas diarias.[^6]
 
