@@ -2,7 +2,7 @@
 layout: single
 title: Introducción
 date: 2017-10-02 15:32:08
-last_modified_at: 2018-09-01T11:00:00-02:00
+last_modified_at: 2019-01-23T11:00:00-02:00
 categories: 
 - general
 ---
@@ -18,17 +18,15 @@ Vaya, un lector exigente 🤔
 
 Bueno, puedo listar algunos temas que podría tratar aquí:
 
-- Guías, tutoriales y consejos de **Informática**
 - **Desarrollo y Producitividad Personal**
 - **Divulgación Científica**
 - Posts de **Opinión**
+- Guías, tutoriales y consejos de **Informática**
 - Deporte, en especial **Running**
 - **Relatos**
-- Entretenimiento (**anime** y *manga* son mis preferencias)
+- Entretenimiento
 
-Sin embargo, no me limito a estos.
-
-En lo que respecta a la **frecuencia** de publicación no quiero exigirme nada, pues no tengo demasiado tiempo libre, así que lo mismo una semana publico varios posts y luego no escribo durante meses, según me venga. Así es más interesante.
+En lo que respecta a la **frecuencia** de publicación no quiero exigirme nada, así que lo mismo una semana publico varios posts y luego no escribo durante meses, según me venga. Así es más interesante.
 
 ## Comentarios
 
