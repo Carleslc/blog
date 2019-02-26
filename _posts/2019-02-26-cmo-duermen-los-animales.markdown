@@ -32,9 +32,9 @@ Mientras en una noche de sueño los humanos podemos durar una hora en fase REM y
 
 <img src="/assets/images/sleep/golondrina.jpg" alt="Golondrina" style="width: 400px" class="align-left">
 
-Hay otros animales que llevan el sueño a otros niveles, como en el caso de las **aves**, que poseen la capacidad de *"desactivar"* una parte de su cerebro, de forma que por ejemplo mientras están volando durante sus procesos migratorios, puedan poner a dormir la mitad de su cerebro mientras que la otra permanece despierta para evitar chocar o caerse en pleno vuelo.
+Hay otros animales que llevan el sueño a otros niveles, como en el caso de las **aves**, que poseen la capacidad de *"desactivar"* una parte de su cerebro, de forma que por ejemplo mientras están volando durante sus procesos migratorios, puedan poner a dormir la mitad de su cerebro mientras que la otra permanece despierta para evitar chocar o caerse en pleno vuelo. También les es útil para evitar depredadores.
 
-Cuando pasan unas horas de sueño cambian la parte del cerebro activa para que todo el cerebro acabe durmiendo el tiempo necesario para realizar sus funciones vitales. Algo parecido sucede con algunos mamíferos como es el caso de **delfines** y **ballenas**.
+Cuando pasa un rato de sueño cambian la parte del cerebro activa para que todo el cerebro acabe durmiendo el tiempo necesario para realizar sus funciones vitales. Esta característica se llama *sueño unihemisférico*, y también está presente en algunos mamíferos como es el caso de **delfines** y **ballenas**, que nunca dejan de nadar y necesitan controlar la respiración.
 
 En el caso de los **peces**, aunque no puedan cerrar sus ojos porque no tienen párpados, también duermen a través de reposar y disminuir su consciencia, aunque no llegan a soñar como lo hacemos los humanos. Lo mismo pasa con reptiles y anfibios. Imagina a los dinosaurios, durmiendo plácidamente bajo un árbol.
 
