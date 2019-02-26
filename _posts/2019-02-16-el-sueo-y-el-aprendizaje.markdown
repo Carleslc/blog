@@ -55,7 +55,7 @@ Para conocer mejor todo esto mira esta animación:
 
 *Dime, ¿conocías esta faceta del sueño?*
 
-Ahora que conoces un poco mejor la importancia del sueño, es posible que te preguntes si esto es así solo para los seres humanos, o como nos diferenciamos del resto de animales. Hablaré de esto en unos días.
+Ahora que conoces un poco mejor la importancia del sueño, es posible que te preguntes si esto es así solo para los seres humanos, o cómo nos diferenciamos del resto de animales. Hablaré de esto en unos días.
 
 Puedes recibir actualizaciones por _email_ de este blog para saber cuando publico el siguiente artículo.
 <a href="#" id="subscribe-intro" class="btn center">✉ <b>Suscribirse</b></a>
