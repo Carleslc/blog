@@ -51,11 +51,7 @@ En la siguiente animación tienes más información sobre cómo funciona el relo
 
 Escuchar las señales que nos manda el cuerpo y adaptarse a ellas es esencial para una vida sana. Ya sabes, el cuerpo es sabio, y en este artículo seguro que te has dado cuenta un poco más.
 
-<<<<<<< HEAD
-Ahora ya conoces a tu reloj biológico y la influencia de los ritmos circadianos en tu organismo, pero… *¿cómo influye esto en la hora a la que te acuestas? ¿qué es lo que nos produce somnoliencia? ¿cómo te dice el cuerpo cuándo es hora de dormir?* Lo descubrirás en el próximo artículo.
-=======
 Ahora ya conoces a tu reloj biológico y la influencia de los ritmos circadianos en tu organismo, pero… *¿qué es lo que nos produce somnoliencia? ¿cómo te dice el cuerpo cuándo es hora de dormir?* El vídeo anterior seguramente ya te ha dado alguna pista. Veremos más detalles en el próximo artículo.
->>>>>>> develop
 
 Puedes recibir actualizaciones por _email_ de este blog para saber cuando publico el siguiente artículo.
 <a href="#" id="subscribe-intro" class="btn center">✉ <b>Suscribirse</b></a>
