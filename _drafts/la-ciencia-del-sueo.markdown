@@ -121,7 +121,7 @@ Para ir más lejos, el hecho de dormir no es algo exclusivo del reino animal. In
 
 Existe un lugar escondido en el hipotálamo de tu cerebro llamado **núcleo supraquiasmático**. Puede que no lo hayas escuchado nunca, pero ahí está todos los días, y estoy seguro de que has notado sus efectos. Es el encargado de regular tus **ritmos biológicos**. Es tu reloj interno.
 
-<img src="/assets/images/sleep/scn.jpeg" align="left" width="250" height="250" class="image">
+<img src="/assets/images/sleep/scn.jpeg" width="250" class="align-left">
 
 Existen ritmos circadianos (patrones que se repiten aproximadamente cada 24 horas), ritmos ultradiarios (patrones en ciclos más cortos de 24 horas, como los patrones de alimentación) y ritmos infradiarios (patrones más largos de 24 horas, como el ciclo menstrual femenino).
 
@@ -129,17 +129,19 @@ Estos ritmos tienen una componente **genética**. Es decir, biológicamente tu f
 
 Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de sueño / vigilia, la temperatura corporal, la presión arterial, el tiempo de reacción, los niveles de alerta, los patrones de secreción hormonal y las funciones digestivas*. Por ejemplo el ritmo circadiano de la temperatura corporal hace oscilar tu temperatura arriba y abajo a lo largo del día y la noche. Mientras dormimos nuestra temperatura corporal está en sus mínimos. A lo largo del día pueden haber varios picos.
 
+![image-center](/assets/images/sleep/ritmos-circadianos.jpeg){: .align-center }
+
 ¿Te ha pasado alguna vez que en una hora determinada del día tienes muchas ganas de hacer cosas, te sientes con mucha energía y, al cabo de otra hora, sientes haber perdido toda tu motivación y lo único que te apetece es echarte a dormir? Quizás sea precipitado echarle las culpas al profesor de turno, a tu jefe, o a tu vagancia. Muy probablemente sea una consecuencia de tus ritmos circadianos, en especial el que regula tus niveles de **rendimiento y estado de alerta**.
 
-¿Alguna vez has *sentido* qué hora es aunque no la hayas mirado en ningún reloj físico? Es tu reloj biológico, especulando una hora en base al ritmo de sueño / vigilia, y dependiendo de tu regularidad de sueño puede ser increíblemente preciso. Lo más curioso es que este reloj es capaz de mandar señales incluso **sin luz ambiental**. Por eso se dice que los ritmos biológicos son endógenos. Lo habrás experimentado alguna vez cuando te has despertado tan solo unos minutos antes de que sonara el despertador. No tienes superpoderes. Es tu reloj biológico, que recuerda cuando suena la dichosa alarma y se adelanta para que no te moleste.
+¿Alguna vez has *sentido* qué hora es aunque no la hayas mirado en ningún reloj físico? Es tu reloj biológico, especulando una hora en base al ritmo de sueño / vigilia, y dependiendo de tu regularidad de sueño puede ser increíblemente preciso. Lo más curioso es que este reloj es capaz de mandar señales incluso **sin luz ambiental**. Por eso se dice que los ritmos biológicos son *endógenos*. Lo habrás experimentado alguna vez cuando te has despertado tan solo unos minutos antes de que sonara el despertador. Acéptalo, no tienes superpoderes. Es tu reloj biológico, que recuerda cuando suena la dichosa alarma y se adelanta para que no te moleste.
 
-<img src="/assets/images/sleep/ritmos-circadianos.jpeg" align="center">
+![image-center](/assets/images/sleep/ritmo-circadiano-24h.png){: .align-center }
 
 Este reloj no coincide exactamente con la rotación terrestre. En los humanos su ciclo **excede las 24 horas entre 15 y 30 minutos**, dependiendo de cada persona. Esta es la principal causa de que a veces, si no decidimos conscientemente cuando nos vamos a la cama, tenemos una tendencia a irnos a dormir cada día un poco más tarde que el día anterior.
 
 Dado su desfase, es necesario que estos se sincronicen con los factores externos para adaptarse al entorno. Estos factores externos que nos dan indicaciones sobre el tiempo se llaman *zeitgebers* (donantes de tiempo). El principal zeitgeber que nos permite **sincronizar** este reloj es la **luz ambiental**.
 
-**Los factores externos influyen en tus ritmos biológicos**. Por ejemplo, la exposición a la **luz solar**, las **drogas** y la **cafeína** pueden afectar tus horarios de sueño desfasando tus ritmos circadianos.
+**Los factores externos influyen en tus ritmos biológicos**. Por ejemplo, la exposición a la **luz solar y artificial**, las **drogas** y la **cafeína** pueden afectar tus horarios de sueño desfasando tus ritmos circadianos.
 
 El **jet lag** se da cuando hay un fuerte desfase entre nuestros ritmos circadianos y los factores externos. El cuerpo tarda unos días en sincronizar el reloj biológico a las nuevas condiciones ambientales, a un ritmo de una hora por día. Es decir, si vuelas de España a Los Ángeles, con una diferencia de 9 horas, tardarás 9 días en acomodarte completamente al nuevo horario.
 
@@ -149,7 +151,7 @@ En la siguiente animación tienes más información sobre cómo funciona el relo
 
 ## ¿Qué significa "tener sueño"?
 
-El núcleo supraquiasmático encargado de tu reloj biológico se comunica con otras áreas del tálamo y el hipotálamo. Existe una glándula en el hipotálamo de tu cerebro llamada **glándula pineal** que tiene una fuerte relación con tu reloj biológico. Esta glándula, mediante los niveles de luz ambiental que recibe por la retina y otros zeitgebers, se encarga de liberar una hormona llamada **melatonina**. Normalmente los niveles de melatonina comienzan a aumentar a mitad y final de la tarde, se mantienen altos durante la mayor parte de la noche, y luego descienden a partir de las primeras horas de la mañana. Esta hormona puede influenciar sobre tus ritmos circadianos.
+El núcleo supraquiasmático encargado de tu reloj biológico se comunica con otras áreas del tálamo y el hipotálamo. Existe una glándula en el hipotálamo de tu cerebro llamada **glándula pineal** que tiene una fuerte relación con tu reloj biológico. Esta glándula, mediante los niveles de luz ambiental que recibe por la retina y otros zeitgebers, se encarga de liberar una hormona llamada **melatonina**. Normalmente los niveles de melatonina comienzan a aumentar a mitad y final de la tarde, se mantienen altos durante la mayor parte de la noche, y luego descienden a partir de las primeras horas de la mañana. Esta hormona influye sobre tus ritmos circadianos.
 
 La melatonina es la encargada de decirle a tu reloj biológico cuándo es de día y cuándo es de noche, de forma que pueda sincronizarse correctamente. Esta hormona se encarga de decirte "ahora sería un buen momento para estar durmiendo" y "creo que ya va siendo hora de despertar", diciéndote cuándo deberías irte a dormir y cuándo despertarte. Pero ya sabemos todos que, de forma consciente, podemos ignorar estas recomendaciones. Desde luego, lo más sensato para nuestra regularidad de sueño es seguir sus recomendaciones, pero el hecho de poder ignorarlo significa que esta hormona no es la encargada de decirnos si tenemos sueño o no. De eso se encarga la **adenosina** conjuntamente con nuestro ritmo sueño / vigilia, en algo que podemos llamar *presión del sueño*.
 

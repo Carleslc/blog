@@ -10,6 +10,7 @@ tags:
 - dormir
 - desarrollo personal
 - ciencia
+- cronobiología
 ---
 
 Nos pasamos un tercio de nuestra vida durmiendo y sin embargo no le damos la importancia que se merece. Si tienes problemas de sueño, no eres el único.
