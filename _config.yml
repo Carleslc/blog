@@ -90,7 +90,7 @@ author:
   location         : 
   email            : "lazaro.costa.carles@gmail.com"
   uri              : "https://carleslc.me/"
-  bitbucket        : "Carleslc"
+  bitbucket        : # "Carleslc"
   codepen          :
   dribbble         :
   flickr           :
@@ -102,10 +102,10 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "carlos-lázaro-costa-31b4a3150"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "5442142/carlos-lázaro-costa"
+  stackoverflow    : #"5442142/carlos-lázaro-costa"
   steam            :
   tumblr           :
   twitter          : "Carleslc"
