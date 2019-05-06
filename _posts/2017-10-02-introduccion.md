@@ -2,29 +2,26 @@
 layout: single
 title: Introducción
 date: 2017-10-02 15:32:08
-last_modified_at: 2019-01-23T11:00:00-02:00
-categories: 
+last_modified_at: 2019-05-06T17:07:55+02:00
+categories:
 - general
 ---
 
 **_Bienvenido, querido lector._**
 
-He decidido crear este blog para publicar todas esas cosas que necesito _vomitar_ en algún sitio de vez en cuando. Es decir, aquí os podéis encontrar con _cualquier cosa_, a excepción de material explícito para adultos, que para eso ya hay otros sitios mejores.
+He decidido crear este blog para publicar todas esas cosas que necesito _vomitar_ en algún sitio de vez en cuando. De esta forma puedo solidificar mis conocimientos y transmitir la información para el aprendizaje de todos.
 
 ### --- ¿Puedes ser más específico?
 {: .notice}
 
 Vaya, un lector exigente 🤔
 
-Bueno, puedo listar algunos temas que podría tratar aquí:
+Bueno, estos son algunos temas que puedo tratar aquí:
 
 - **Desarrollo y Producitividad Personal**
 - **Divulgación Científica**
-- Posts de **Opinión**
+- Artículos de **Opinión**
 - Guías, tutoriales y consejos de **Informática**
-- Deporte, en especial **Running**
-- **Relatos**
-- Entretenimiento
 
 En lo que respecta a la **frecuencia** de publicación no quiero exigirme nada, así que lo mismo una semana publico varios posts y luego no escribo durante meses, según me venga. Así es más interesante.
 
