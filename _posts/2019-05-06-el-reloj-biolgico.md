@@ -27,7 +27,7 @@ Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de sueño / 
 
 ![image-center](/assets/images/sleep/ritmos-circadianos.jpeg){: .align-center }
 
-¿Habitualmente sientes que en una hora determinada del día tienes muchas ganas de hacer cosas, te sientes con mucha energía y, al cabo de otra hora, sientes haber perdido toda tu motivación y lo único que te apetece es echarte a dormir? Quizás sea precipitado echarle las culpas al profesor de turno, a tu jefe, o a tu vagancia. Muy probablemente sea una consecuencia de tus *ritmos circadianos*, en especial el que regula tus niveles de **rendimiento y estado de alerta**.
+¿Habitualmente sientes que en una hora determinada del día tienes muchas ganas de hacer cosas, te sientes con mucha energía y, al cabo de otra hora, sientes haber perdido toda tu motivación y lo único que te apetece es echarte a dormir? Quizás sea precipitado echarle las culpas al profesor de turno, a tu jefe, o a tu vagancia. Muy probablemente sea una consecuencia de tus ritmos circadianos, en especial el que regula tus niveles de **rendimiento y estado de alerta**.
 
 ¿Sabrías decir aproximadamente qué hora es sin mirar el reloj? ¿Alguna vez has *sentido* la hora y te has despertado instantes antes de que sonara el despertador? Es tu reloj biológico, especulando una hora en base al ritmo de sueño / vigilia, y dependiendo de tu regularidad de sueño puede ser increíblemente preciso.
 
