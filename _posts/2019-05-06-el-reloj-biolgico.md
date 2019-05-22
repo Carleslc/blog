@@ -23,7 +23,7 @@ Existen ritmos circadianos (patrones que se repiten aproximadamente cada 24 hora
 
 Estos ritmos tienen una componente **genética**. Es decir, biológicamente tu forma natural de medir el tiempo se debe principalmente a factores hereditarios. Sin embargo, no son los únicos factores que regulan su funcionamiento.
 
-Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de sueño / vigilia, la temperatura corporal, la presión arterial, el tiempo de reacción, los niveles de alerta, los patrones de secreción hormonal y las funciones digestivas*. Por ejemplo el ritmo circadiano de la temperatura corporal hace oscilar tu temperatura arriba y abajo a lo largo del día y la noche. Mientras dormimos nuestra temperatura corporal está en sus mínimos. A lo largo del día pueden haber varios picos.
+Hay varios **ritmos circadianos**. Estos ritmos controlan *el ciclo de **sueño / vigilia**, la **temperatura corporal**, la **presión arterial**, el **tiempo de reacción**, los **niveles de alerta**, los patrones de **secreción hormonal** y las **funciones digestivas***. Por ejemplo el ritmo circadiano de la temperatura corporal hace oscilar tu temperatura arriba y abajo a lo largo del día y la noche. Mientras dormimos nuestra temperatura corporal está en sus mínimos. A lo largo del día pueden haber varios picos.
 
 ![image-center](/assets/images/sleep/ritmos-circadianos.jpeg){: .align-center }
 
