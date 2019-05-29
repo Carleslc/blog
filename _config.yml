@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Carleslc"
-  gitlab           :
+  gitlab           : # "Carleslc"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,14 +105,14 @@ author:
   linkedin         : "carlos-lázaro-costa-31b4a3150"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"5442142/carlos-lázaro-costa"
+  stackoverflow    : "5442142/carlos-lázaro-costa"
   steam            :
   tumblr           :
   twitter          : "Carleslc"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCuOpl83PmtTZYpef-iy4FJA"
 
 
 # Reading Files
