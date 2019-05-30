@@ -14,7 +14,7 @@ description              : "Blog para el desarrollo personal. Temas interesantes
 url                      : "https://blog.carleslc.me"
 baseurl                  : "/"
 repository               : "carleslc/blog"
-teaser                   : /assets/images/500x300.png
+teaser                   : /assets/images/peterpan.jpg
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
