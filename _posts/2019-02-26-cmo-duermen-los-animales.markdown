@@ -11,6 +11,7 @@ tags:
 - desarrollo personal
 - ciencia
 - animales
+- cronobiología
 ---
 
 *El proceso del sueño no es algo único de los seres humanos. Existen similitudes y diferencias entre nosotros y el resto de especies acerca de como dormimos.*

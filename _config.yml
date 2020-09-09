@@ -10,7 +10,7 @@ locale                   : "es"
 title                    : "Un Blog Random"
 title_separator          : "-"
 name                     : "Carlos Lázaro Costa"
-description              : "Blog para el desarrollo personal. Temas interesantes de diferentes categorías: ciencia, entretenimiento, tecnología, productividad..."
+description              : "Blog para el desarrollo personal. Temas interesantes de ciencia, tecnología, productividad..."
 url                      : "https://blog.carleslc.me"
 baseurl                  : "/"
 repository               : "carleslc/blog"
@@ -47,6 +47,13 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# Default extension for new posts and pages
+post_ext: md
+page_ext: html
+
+# Format titles with titlecase?
+titlecase: false
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -79,23 +86,23 @@ analytics:
 author:
   name             : "Carlos Lázaro Costa"
   avatar           : "/assets/images/avatar.jpeg"
-  bio              : "Amante de la informática, la divulgación científica, la productividad personal, el anime y del aprendizaje en general."
-  location         : "Laniakea"
+  bio              : "Amante de la productividad personal, la divulgación científica, la informática y del aprendizaje en general."
+  location         : 
   email            : "lazaro.costa.carles@gmail.com"
   uri              : "https://carleslc.me/"
-  bitbucket        : "Carleslc"
+  bitbucket        : # "Carleslc"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
   github           : "Carleslc"
-  gitlab           :
+  gitlab           : # "Carleslc"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "carlos-lázaro-costa-31b4a3150"
   pinterest        :
   soundcloud       :
   stackoverflow    : "5442142/carlos-lázaro-costa"
@@ -105,7 +112,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCuOpl83PmtTZYpef-iy4FJA"
 
 
 # Reading Files

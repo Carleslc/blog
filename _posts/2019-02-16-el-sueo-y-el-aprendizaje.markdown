@@ -11,6 +11,7 @@ tags:
 - desarrollo personal
 - ciencia
 - aprendizaje
+- cronobiología
 ---
 
 *¿Sabías que se aprende durmiendo?* Durante el día procesamos mucha información, pero es durante la noche cuando ocurre la verdadera magia.
